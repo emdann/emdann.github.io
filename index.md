@@ -1,12 +1,11 @@
 ---
-layout: frontpage
-title: Hello world
-description: Website attemps
+layout: page
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-## What am I doing? 
-
-First attempt at making a personal blog
-
-This website was built following the [simple_site tutorial](https://kbroman.org/simple_site/) by Karl Broman
-
+[Github Pages](https://pages.github.com) provide a simple way to make a
+website using
+[Markdown](https://daringfireball.net/projects/markdown/) and
+[git](https://git-scm.com).
