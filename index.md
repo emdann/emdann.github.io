@@ -1,7 +1,10 @@
 ---
 layout: frontpage
-title: Hello world!
+title: Hello world
+description: Website attemps
 ---
+
+## What am I doing? 
 
 First attempt at making a personal blog
 
