@@ -1,7 +1,6 @@
 ---
 layout: frontpage
 title: Hello world!
-description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
