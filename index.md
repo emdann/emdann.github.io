@@ -5,10 +5,12 @@ tagline:
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-I am a PhD student at the Wellcome Sanger Institute and the University of Cambridge. I am interested in computational methods to describe mechanisms of gene regulation from single-cell genomics data. 
+I am a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge. I am interested in computational methods to describe mechanisms of gene regulation from single-cell genomics data. 
+
+--- 
 
 <div class="container">
-<h3><a name="contact"></a>contact</h3>
+<h3><a name="Contact"></a>contact</h3>
 
     <div class="row-fluid">
         <div class="span3">
@@ -33,4 +35,3 @@ I am a PhD student at the Wellcome Sanger Institute and the University of Cambri
         </div>
     </div>
 </div>
-
