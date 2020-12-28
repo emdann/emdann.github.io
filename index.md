@@ -5,11 +5,13 @@ tagline:
 description: My home page
 ---
 
-I work on computational methods to investigate mechanisms of gene regulation from single-cell genomics data. 
+I work on computational and statistical methods to analyze multi-view genomics data. I am excited about new data types 
 
-I am currently a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge. 
+I am currently a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). My main projects:
 
-I'm all for writing reusable code and reproducible analyses. 
+- understanding how cellular differentiation is driven by gradual shifts in gene expression programmes 
+
+I'm all for writing reusable code and reproducible analyses.
 
 --- 
 
@@ -22,7 +24,7 @@ I'm all for writing reusable code and reproducible analyses.
             <a href="https://www.sanger.ac.uk/programme/cellular-genetics/">Cellular Genetics programme</a><br/>
             <a href="https://www.sanger.ac.uk">Wellcome Sanger Institute</a><br/>
             Wellcome Genome Campus, Saffron Walden CB10 1SA<br/>
-            Cambridge, United Kingdom <br/>
+            Cambridge, United Kingdom <br/><br/>
 
             <div id="hide_email">
         <code>ed6@sanger.ac.uk</code><br/>
@@ -31,7 +33,7 @@ I'm all for writing reusable code and reproducible analyses.
         </div>
 
         <div class="span5">
-            <img src="assets/img/edann.jpg" width="800" title="My pic" alt="Emma Dann">
+            <img "width:2000px;height:2000px;" src="assets/img/edann.jpg" title="My pic" alt="Emma Dann">
         </div>
     </div>
 </div>
