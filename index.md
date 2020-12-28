@@ -5,7 +5,7 @@ tagline:
 description: My home page
 ---
 
-I work on computational and statistical methods to analyze multi-view genomics data. I am excited about new data types 
+I work on computational and statistical methods to analyze multi-modal genomics data. I am excited about new data views 
 
 I am currently a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). My main projects:
 
@@ -33,7 +33,7 @@ I'm all for writing reusable code and reproducible analyses.
         </div>
 
         <div class="span5">
-            <img "width:2000px;height:2000px;" src="assets/img/edann.jpg" title="My pic" alt="Emma Dann">
+            <img style="width:2000px;height:2000px;" src="assets/img/edann.jpg" title="My pic" alt="Emma Dann">
         </div>
     </div>
 </div>
