@@ -7,14 +7,14 @@ description: My home page
 
 I work on computational methods to investigate mechanisms of gene regulation from single-cell genomics data. 
 
-I am a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge. 
+I am currently a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge. 
 
 I'm all for writing reusable code and reproducible analyses. 
 
 --- 
 
 <div class="container">
-<h3><a name="Contact"></a>contact</h3>
+<h3><a name="Contact"></a>Contact</h3>
 
     <div class="row-fluid">
         <div class="span3">
@@ -31,7 +31,7 @@ I'm all for writing reusable code and reproducible analyses.
         </div>
 
         <div class="span5">
-            <img src="assets/img/edann.jpg" width="400" title="My pic" alt="Emma Dann">
+            <img src="assets/img/edann.jpg" width="800" title="My pic" alt="Emma Dann">
         </div>
     </div>
 </div>
