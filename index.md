@@ -35,7 +35,7 @@ I'm all for writing reusable code and reproducible analyses.
         </div>
         
         <div class="span5">
-            <img style="float: right;" src="assets/img/edann_1.jpg" width="400" title="My pic" alt="Emma Dann">
+            <img src="assets/img/edann_1.jpg" width="400" title="My pic" alt="Emma Dann">
         </div>
     </div>
 </div>
