@@ -8,7 +8,7 @@ description: My home page
 I work on computational and statistical methods to model multi-modal genomics data. I am excited about how innovative tech continously adds new biological dimensions to explore.   
 
 I am currently a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). My main projects revolve around modelling the kinetics of gene regulation during human development, analyzing chromatin accessibility and gene expression profiles in single-cells. 
-<--- I am studying gene regulation in fetal development of human lymphoid organs. --->
+<!--- I am studying gene regulation in fetal development of human lymphoid organs. --->
 
 
 
