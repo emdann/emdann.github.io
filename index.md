@@ -2,10 +2,14 @@
 layout: page
 title: About
 tagline: 
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: My home page
 ---
 
+I work in computational biology. 
+
 I am a PhD student in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge. I am interested in computational methods to describe mechanisms of gene regulation from single-cell genomics data.
+
+I'm all for writing reusable code and reproducible analyses. 
 
 --- 
 
@@ -18,11 +22,10 @@ I am a PhD student in the Cellular Genetics programme at the Wellcome Sanger Ins
             <a href="https://www.sanger.ac.uk/programme/cellular-genetics/">Cellular Genetics programme</a><br/>
             <a href="https://www.sanger.ac.uk">Wellcome Sanger Institute</a><br/>
             Wellcome Genome Campus, Saffron Walden CB10 1SA<br/>
-            Cambridge, United Kingdom <br/>
+            Cambridge, United Kingdom <br/>k
 
             <div id="hide_email">
-        <code>ed6<at>sanger.ac.uk</code>
-            </div>
+        <code>ed6@sanger.ac.uk</code>
         <a href="https://github.com/emdann"><img style="width:20px;height:20px;" src="../assets/img/github.png" title="GitHub logo">&nbsp; github: emdann</a><br/>
         <a href="https://twitter.com/emmamarydann"><img style="width:20px;height:20px;" src="../assets/img/twitter.png" title="Twitter logo">&nbsp; @emmamarydann</a><br/><br/>
         </div>
