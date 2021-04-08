@@ -4,6 +4,10 @@ title: Publications
 description: A list of my publications
 ---
 
+### 2021
+
+Elmentaite R., Kumasaka N., ... , **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, bioRxiv [doi: https://doi.org/10.1101/2021.04.07.438755]
+
 ### 2020
 
 Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) The cellular immune response to COVID-19 deciphered by single cell multi-omics across
