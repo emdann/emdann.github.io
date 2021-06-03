@@ -4,7 +4,14 @@ title: Publications
 description: A list of my publications
 ---
 
+### 2021
+
+Elmentaite R., Kumasaka N., ... , **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, bioRxiv [doi: https://doi.org/10.1101/2021.04.07.438755](https://doi.org/10.1101/2021.04.07.438755)
+
 ### 2020
+
+Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) The cellular immune response to COVID-19 deciphered by single cell multi-omics across
+2 three UK centres, medRxiv [doi: https://doi.org/10.1101/2021.01.13.21249725](https://www.medrxiv.org/content/10.1101/2021.01.13.21249725v1)
 
 **Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2020) Milo: differential abundance testing on single-cell data using k-NN graphs, bioRxiv [doi: https://doi.org/10.1101/2020.11.23.393769](https://doi.org/10.1101/2020.11.23.393769)
 
