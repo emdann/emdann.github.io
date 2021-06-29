@@ -7,7 +7,7 @@ description: My home page
 
 I'm a PhD student in computational biology in the Cellular Genetics programme at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). 
 
-I work on how to deal with complex single-cell experiments without compromising on resolution. I'm interested in quantifying differences between single-cell datasets, modelling cell development across time, asynchrony between molecular modalities. 
+I'm interested in comparative analyses between single-cell datasets, modelling cell development across time, asynchrony between molecular modalities. 
 
 I like reusable code, reproducible analyses, dank memes and slow movies.
 
