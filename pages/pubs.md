@@ -6,6 +6,8 @@ description: A list of my publications
 
 ### 2021
 
+Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Intrinsic and extrinsic regulation of human fetal bone marrow haematopoiesis and perturbations in Down syndrome, bioRxiv [doi: https://doi.org/10.1101/2021.06.25.449771](https://doi.org/10.1101/2021.06.25.449771)
+
 Elmentaite R., Kumasaka N., ... , **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, bioRxiv [doi: https://doi.org/10.1101/2021.04.07.438755](https://doi.org/10.1101/2021.04.07.438755)
 
 Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) Single-cell multi-omics analysis of the immune response in COVID-19, Nature Medicine [doi: https://doi.org/10.1038/s41591-021-01329-2](https://www.nature.com/articles/s41591-021-01329-2)
