@@ -6,15 +6,15 @@ description: A list of my publications
 
 ### 2021
 
-Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Intrinsic and extrinsic regulation of human fetal bone marrow haematopoiesis and perturbations in Down syndrome, bioRxiv [doi: https://doi.org/10.1101/2021.06.25.449771](https://doi.org/10.1101/2021.06.25.449771)
+**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2020) Differential abundance testing on single-cell data using k-nearest neighbor graphs, Nature Biotechnology [doi:10.1038/s41587-021-01033-z](https://www.nature.com/articles/s41587-021-01033-z)
 
-Elmentaite R., Kumasaka N., ... , **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, bioRxiv [doi: https://doi.org/10.1101/2021.04.07.438755](https://doi.org/10.1101/2021.04.07.438755)
+Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, Nature [doi:10.1038/s41586-021-03929-x](https://doi.org/10.1038/s41586-021-03929-x)
+
+Elmentaite R., Kumasaka N., Roberts K., Fleming A., **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, Nature [doi:10.1038/s41586-021-03852-1](https://www.nature.com/articles/s41586-021-03852-1)
 
 Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) Single-cell multi-omics analysis of the immune response in COVID-19, Nature Medicine [doi: https://doi.org/10.1038/s41591-021-01329-2](https://www.nature.com/articles/s41591-021-01329-2)
 
 ### 2020
-
-**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2020) Milo: differential abundance testing on single-cell data using k-NN graphs, bioRxiv [doi: https://doi.org/10.1101/2020.11.23.393769](https://doi.org/10.1101/2020.11.23.393769)
 
 Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2020) Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics, bioRxiv, [doi: https://doi.org/10.1101/2020.11.15.378125](https://doi.org/10.1101/2020.11.15.378125)
 
