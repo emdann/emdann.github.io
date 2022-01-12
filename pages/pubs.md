@@ -4,9 +4,13 @@ title: Publications
 description: A list of my publications
 ---
 
+### 2022
+
+He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, bioRxiv [doi: 10.1101/2022.01.11.474933](https://doi.org/10.1101/2022.01.11.474933)
+
 ### 2021
 
-**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2020) Differential abundance testing on single-cell data using k-nearest neighbor graphs, Nature Biotechnology [doi:10.1038/s41587-021-01033-z](https://www.nature.com/articles/s41587-021-01033-z)
+**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, Nature Biotechnology [doi:10.1038/s41587-021-01033-z](https://www.nature.com/articles/s41587-021-01033-z)
 
 Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, Nature [doi:10.1038/s41586-021-03929-x](https://doi.org/10.1038/s41586-021-03929-x)
 
