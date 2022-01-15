@@ -15,7 +15,9 @@ links:
   - label: CV
     url: "https://emdann.github.io/one-column-paged.pdf"
 output:
-  postcards::solana
+  postcards::solana:
+  includes:
+      in_header: header.html
 ---
  
 ## About me `r emo::ji('woman_technologist')`
