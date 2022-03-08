@@ -40,6 +40,10 @@ I like open source software, reproducible analyses, board games and slow movies.
 
 ## Publications `r emo::ji('scroll')` 
 
+`r emo::ji("boom")` Suo C.*, __Dann E.__*, ... , Clatworthy M., Haniffa M., Teichmann S.A., Mapping the developing human immune system across organs. _bioRxiv_  
+
+[Full text](https://www.biorxiv.org/content/10.1101/2022.01.17.476665v1) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmentcellatlas.cellgeni.sanger.ac.uk/fetal-immune#)
+
 Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2022) Cell2location maps fine-grained cell types in spatial transcriptomics. _Nature Biotechnology_  
 [Full text](https://doi.org/10.1038/s41587-021-01139-4) |
 [python package](https://cell2location.readthedocs.io/)
