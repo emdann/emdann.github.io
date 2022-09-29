@@ -40,6 +40,13 @@ I like open source software, reproducible analyses, board games and slow movies.
 
 ## Publications `r emo::ji('scroll')` 
 
+Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D., Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _arXiv_  
+<!-- <sup>\*Equal Contribution</sup> -->
+[Full text](https://arxiv.org/pdf/2209.06716.pdf) 
+
+Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M., Multi-organ functions of yolk sac during human early development. _biorXiv_  
+[Full text](https://www.biorxiv.org/content/10.1101/2022.08.03.502475v1.full.pdf) 
+
 `r emo::ji("boom")` Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022), Mapping the developing human immune system across organs. _Science_  
 <sup>\*Equal Contribution</sup>  
 [Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)
