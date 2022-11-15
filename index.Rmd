@@ -24,7 +24,7 @@ output:
 
 I'm a PhD student in computational biology in the [Cellular Genetics programme](https://www.sanger.ac.uk/programme/cellular-genetics/) at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). 
 
-I work on comparative analyses between single-cell datasets and efficient use of cell atlases, in the context of human development. 
+I work on comparative analyses between single-cell datasets and efficient use of cell atlases, in the context of human tissue immunology and development. 
 
 I like open source software, reproducible analyses, board games and slow movies.
 
@@ -34,20 +34,27 @@ I like open source software, reproducible analyses, board games and slow movies.
 
 **milopy** |  `r fontawesome::fa("github")` [emdann/milopy](https://github.com/emdann/milopy) | primary developer | python package for the identification of differential cell abundance in KNN graphs for single-cell data
 
+**oor_benchmark** |  `r fontawesome::fa("github")` [MarioniLab/oor_benchmark](https://github.com/emdann/oor_benchmark) | primary developer | python framework to benchmark workflows for detection of out-of-reference cells in comparative single-cell analysis 
+
 **cell2location** |  `r fontawesome::fa("github")`  [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | contributor | python package for mapping of tissue cell types via integration of single cell RNA-seq and spatial transcriptomics data
 
 **SingleCellOpenProblems** |  `r fontawesome::fa("github")`  [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor
 
 ## Publications `r emo::ji('scroll')` 
 
+`r emo::ji("key")` **Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv_  
+[Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
+[code](https://github.com/MarioniLab/oor_design_reproducibility) | 
+[python package](https://github.com/MarioniLab/oor_benchmark) 
+
 Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D., Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _arXiv_  
-<!-- <sup>\*Equal Contribution</sup> -->
+<sup>\*Equal Contribution</sup>  
 [Full text](https://arxiv.org/pdf/2209.06716.pdf) 
 
 Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M., Multi-organ functions of yolk sac during human early development. _biorXiv_  
 [Full text](https://www.biorxiv.org/content/10.1101/2022.08.03.502475v1.full.pdf) 
 
-`r emo::ji("boom")` Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022), Mapping the developing human immune system across organs. _Science_  
+`r emo::ji("key")` Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022), Mapping the developing human immune system across organs. _Science_  
 <sup>\*Equal Contribution</sup>  
 [Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)
 
@@ -58,7 +65,7 @@ Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (202
 He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _bioRxiv_  
 [Full text](https://doi.org/10.1101/2022.01.11.474933)
 
-`r emo::ji("boom")` **Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_  
+`r emo::ji("key")` **Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_  
 <!-- <sup>\*Equal Contribution</sup> -->
 [Full text](https://www.nature.com/articles/s41587-021-01033-z) | 
 [R package](https://github.com/MarioniLab/miloR) | 
