@@ -3,8 +3,7 @@
 output:
   pagedown::html_paged:
     # offline
-    css: ["css/one-column-paged.css"]
-    # "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
+    css: ["css/one-column-paged.css", "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
     number_sections: false
 title: "Emma Dann"
 links-to-footnotes: false
@@ -97,48 +96,40 @@ Final grade: 110 _cum laude_/110
 **Research assistant -- Center for Integrative Biology, University of Trento, IT** (2016)  
 Lab equipment maintenance and general support for benchwork.
 
-## Software
-
-**miloR** | <i class="fab fa-github"></i> [MarioniLab/miloR](https://github.com/MarioniLab/miloR) | primary developer | R/Bioconductor package for the identification of differential cell abundance in KNN graphs for single-cell data
-
-**milopy** | <i class="fab fa-github"></i> [emdann/milopy](https://github.com/emdann/milopy) | primary developer | python package for the identification of differential cell abundance in KNN graphs for single-cell data
-
-**oor_benchmark** |  <i class="fab fa-github"></i> [MarioniLab/oor_benchmark](https://github.com/emdann/oor_benchmark) | primary developer | python framework to benchmark workflows for detection of out-of-reference cells in comparative single-cell analysis 
-
-**cell2location** | <i class="fab fa-github"></i> [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | contributor | python package for mapping of tissue cell types via integration of single cell RNA-seq and spatial transcriptomics data
-
-**SingleCellOpenProblems** | <i class="fab fa-github"></i> [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor | A python framework to formalize and benchmark open problems in single-cell genomics data analysis.
-
 ## Publications
 
-Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Single cell antigen receptor analysis reveals lymphocyte developmental origins, _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.18.517068v1) | 
-[python package](https://github.com/zktuong/dandelion)
+#### Key publications 
 
 **Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
 [python package](https://github.com/MarioniLab/oor_benchmark)
 
-Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D., Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _arXiv_ | [Full text](https://arxiv.org/pdf/2209.06716.pdf)   
-<sup>\*Equal Contribution</sup>  
-
-Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M., Multi-organ functions of yolk sac during human early development. _biorXiv_ |
-[Full text](https://www.biorxiv.org/content/10.1101/2022.08.03.502475v1.full.pdf) 
-
-Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022), Mapping the developing human immune system across organs. _Science_ |
+Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
 [Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
 <sup>\*Equal Contribution</sup>  
-
-Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2022) Cell2location maps fine-grained cell types in spatial transcriptomics. _Nature Biotechnology_ |
-[Full text](https://doi.org/10.1038/s41587-021-01139-4) |
-[python package](https://cell2location.readthedocs.io/)
-
-He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _bioRxiv_ |
-[Full text](https://doi.org/10.1101/2022.01.11.474933)
 
 **Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_ |
 [Full text](https://www.nature.com/articles/s41587-021-01033-z) | 
 [R package](https://github.com/MarioniLab/miloR) | 
 [python package](https://github.com/emdann/milopy)
+
+#### Other 
+
+Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Single cell antigen receptor analysis reveals lymphocyte developmental origins, _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.18.517068v1) | 
+[python package](https://github.com/zktuong/dandelion)
+
+He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _Cell_ |
+[Full text](https://www.cell.com/cell/fulltext/S0092-8674(22)01415-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422014155%3Fshowall%3Dtrue)
+
+Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)   
+<sup>\*Equal Contribution</sup>  
+
+Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M. (2022) Multi-organ functions of yolk sac during human early development. _biorXiv_ |
+[Full text](https://www.biorxiv.org/content/10.1101/2022.08.03.502475v1.full.pdf) 
+
+Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2022) Cell2location maps fine-grained cell types in spatial transcriptomics. _Nature Biotechnology_ |
+[Full text](https://doi.org/10.1038/s41587-021-01139-4) |
+[python package](https://cell2location.readthedocs.io/)
 
 Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, _Nature_ |
 [Full text](https://doi.org/10.1038/s41586-021-03929-x)
@@ -154,38 +145,51 @@ Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong 
 Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_ |
 [Full text](https://www.jci.org/articles/view/131041)
 
-<!-- \newpage -->
-## Conference presentations
+\newpage
 
-Single Cell Genomics | Utrecht (NL) | October 2022    
-_Precise disease-state identification with healthy single-cell references_ (poster presentation)
+## Software
 
-UK Conference of Bioinformatics and Computational Biology | virtual | September 2022  
-_Mapping the developing immune system across organs_ (invited talk)
+**miloR** | <i class="fab fa-github"></i> [MarioniLab/miloR](https://github.com/MarioniLab/miloR) | primary developer | R/Bioconductor package for the identification of differential cell abundance in KNN graphs for single-cell data
 
-Single Cell Biology | Wellcome Genome Campus, Hinxton (UK) | June 2022  
-_Mapping the developing immune system across organs_ (selected talk)
+**milopy** | <i class="fab fa-github"></i> [emdann/milopy](https://github.com/emdann/milopy) | primary developer | python package for the identification of differential cell abundance in KNN graphs for single-cell data
 
-The Biology of Genomes | Cold Spring Harbor Laboratory (US) | May 2022  
-_Mapping the developing immune system across organs_ (selected talk)
+**oor_benchmark** |  <i class="fab fa-github"></i> [MarioniLab/oor_benchmark](https://github.com/emdann/oor_benchmark) | primary developer | python framework to benchmark workflows for detection of out-of-reference cells in comparative single-cell analysis 
 
-Maxwell Society Annual Conference | King's College London (UK) | Apr 2022  
-_Best practices and open challenges in single-cell genomics data analysis_ (invited talk)
+**scverse-tutorials** | <i class="fab fa-github"></i> [scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | contributor | tutorials for single-cell omics data analysis in python
 
-Chan Zuckerberg Initiative Single Cell Biology Meeting | virtual | Oct 2021  
-_Milo: differential abundance testing on single-cell data using KNN graphs_ (selected talk)
+**single-cell-best-practices** | <i class="fab fa-github"></i> [theislab/single-cell-best-practices](https://www.sc-best-practices.org/preamble.html) | contributor | open source book on best practices for single-cell genomics data analysis
 
-Next Generation Genomics Meeting | virtual | Sept 2021  
-_Differential abundance testing on single-cell data using KNN graphs_ (selected talk) ([video](https://underline.io/lecture/36963-milo-differential-abundance-testing-on-single-cell-data-using-knn-graphs))
+**cell2location** | <i class="fab fa-github"></i> [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | contributor | python package for mapping of tissue cell types via integration of single cell RNA-seq and spatial transcriptomics data
 
-Human Cell Atlas General Meeting | virtual | Jun 2021  
-_Mapping human immune system development across fetal organs_ (poster presentation)
+**SingleCellOpenProblems** | <i class="fab fa-github"></i> [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor | A python framework to formalize and benchmark open problems in single-cell genomics data analysis.
 
-Cambridge Center for Physical Biology Single Cell Symposium | virtual | Mar 2021  
-_Milo: differential abundance testing on single-cell data using KNN graphs_ (invited talk)
+## Presentations
 
-Chan Zuckerberg Initiative Seed Networks Computational biology meeting | virtual | Mar 2021  
-_Milo: differential abundance testing on single-cell data using KNN graphs_ (short talk)
+#### Conference oral presentations
+Nov 2022 - Machine Learning in Computational Biology conference, virtual  
+June 2022 - Single Cell Biology conference, Wellcome Genome Campus, Hinxton (UK)  
+May 2022 - The Biology of Genomes | Cold Spring Harbor Laboratory (US)  
+Oct 2021 - Chan Zuckerberg Initiative Single Cell Biology Meeting, virtual  
+Sept 2021 - Next Generation Genomics Meeting, virtual  
+Mar 2021 - CZI Seed Networks Computational biology meeting, virtual  
+
+#### Invited seminars 
+Dec 2022 - UMC Utrecht single-cell genomics meeting, virtual   
+Sept 2022 - UK Conference of Bioinformatics and Computational Biology, virtual  
+Jul 2022 - Computational Health Center seminar, Helmholtz Munich (DE)  
+Apr 2022 - Maxwell Society Annual Conference, King's College London (UK)  
+Apr 2022 - NYU Langone single cell journal club, virtual  
+Mar 2021 - Cambridge Center for Physical Biology Single Cell Symposium, virtual  
+
+#### Lab meetings 
+Jan 2023 - Theis lab @ ICB Helmholtz Munich  
+May 2022 - Pe'er lab @ Memorial Sloan Kettering Cancer Center  
+May 2022 - Satija lab @ New York Genome Center  
+Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge  
+
+#### Posters
+October 2022 - Single Cell Genomics conference, Utrecht (NL)    
+Jun 2021 - Human Cell Atlas General Meeting, virtual   
 
 <!-- <br class="pageBreak"> -->
 
@@ -195,50 +199,49 @@ _Milo: differential abundance testing on single-cell data using KNN graphs_ (sho
 
 <!-- **Accelerate Science Winter School** (2021) -->
 
-## Other projects
+## Teaching and mentoring experience
 
-[Multimodal single-cell best practices](www.sc-best-practices.org) (2022) | Chapter contributor (compositional analysis)
+Jul 2022 - [Systems biology: From large datasets to biological insight - EMBL-EBI Training](https://www.ebi.ac.uk/training/materials/systems-biology-large-datasets-biological-insight-handbook-2022/) | Instructor for single-cell multi-omics module  
 
-[Systems biology: From large datasets to biological insight - EMBL-EBI Training](https://www.ebi.ac.uk/training/materials/systems-biology-large-datasets-biological-insight-handbook-2022/) (2022) |
-Instructor for single-cell multi-omics module
+Apr 2022 - [Advanced topics in Single Cell Genomics - SIB course](https://www.sib.swiss/training/course/20220426_ADVSC) | Trainer for multi-omics module  
 
-[Advanced topics in Single Cell Genomics - SIB course](https://www.sib.swiss/training/course/20220426_ADVSC) (2022) |
-Trainer for multi-omics module
+Sept 2021 -- Dec 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
 
-[Advanced topics in Single Cell Genomics - Joint SciLifeLab-SIB Summer School](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/) (2021) |
-Trainer for multi-omics project
+Aug 2021 - [Advanced topics in Single Cell Genomics - Joint SciLifeLab-SIB Summer School](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/) | Trainer for multi-omics project  
 
-[Open Problems in Single-Cell Analysis - Spring Jamboree](https://openproblems.bio/jamboree/) (2021) |
-Co-organizer and hacker.
+## Professional service 
 
-[EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) (2020) |
-Member of the organizing committee.
+#### Conference/workshop organization
 
-[OWL - Open Wet Lab](http://www.openwetlab.it/home-en/) (2015 -- 2018) |
-<!-- Board member and director of scientific outreach blog -->
-OWL is the first biohacking organization in Italy. I served as board member and directed the publication of OWL's blog and scientific outreach articles for local newspapers. 
+Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) | Co-organizer  
+Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) | Member of the organizing committee.  
 
-[Model European Parliament](https://mepeurope.eu) (2012 -- 2015) |
-International simulation of the working of the European Parliament for high school students. I was delegate, committee president and president of the general assembly at many local and international MEP sessions. 
+#### Peer review
+Nature Biotechnology (2\* papers)  
+Cell (1\* paper)  
+OUP Bioinformatics (1 paper)  
+Bioinformatics Advances (1 paper)  
+<sup>\*Assisting a senior reviewer</sup> 
 
-<!-- ## Academic service -->
+## Fellowships & awards
 
-<!-- **Peer review** -->
-<!-- _Nature Biotechnology_ -->
-<!-- _Bioinformatics_ -->
-
-## Fellowships and awards
-
-4-year Wellcome Sanger Institute PhD studentship (2019-2023)
-
-U/Select honours programme and travel grant - Utrecht University  (2018)  
+Oct 2019 -- Oct 2023 - 4-year Wellcome Sanger Institute PhD studentship (2019-2023)  
+Jan 2018 - U/Select honours programme and travel grant - Utrecht University  
 <!-- Honours programme for selected students of the Graduate School of Life Sciences, incl. travel grant to perform M.Sc. research project abroad -->
-
-Merit Award - University of Trento (2017)  
+Oct 2017 - Merit Award - University of Trento  
 <!-- Cash prize for excellent graduates established to reward their skills and their commitment to study -->
 
 <!-- ## Academic referees -->
-
 <!-- - Dr Sarah A. Teichmann FMedSci FRS - Head of Cellular Genetics programme st9<at>sanger.ac.uk -->
 <!-- - Dr John C. Marioni - marioni<at>ebi.ac.uk -->
 <!-- - Dr Wolfgang Huber - wolfgang.huber<at>embl.de -->
+
+## Leadership & Outreach
+
+Oct 2015 -- Jan 2018 - [OWL - Open Wet Lab](http://www.openwetlab.it/home-en/) |
+<!-- Board member and director of scientific outreach blog -->
+OWL is the first biohacking organization in Italy. I was board member and directed the publication of OWL's blog and scientific outreach articles for local newspapers. 
+
+Nov 2012 -- Apr 2015 - [Model European Parliament](https://mepeurope.eu) |
+International simulation of the working of the European Parliament for high school students. I was delegate, committee president and president of the general assembly at many local and international MEP sessions. 
+
