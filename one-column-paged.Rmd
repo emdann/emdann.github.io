@@ -115,6 +115,8 @@ Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022) 
 
 #### Other 
 
+Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _biorXiv_ | [Full text](https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.13.519713.full.pdf)
+
 Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Single cell antigen receptor analysis reveals lymphocyte developmental origins, _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.18.517068v1) | 
 [python package](https://github.com/zktuong/dandelion)
 
