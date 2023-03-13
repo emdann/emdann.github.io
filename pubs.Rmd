@@ -1,0 +1,73 @@
+---
+title: "Publications `r emo::ji('scroll')` "
+# image: "edann_2.jpg"
+# links:
+#   - label: Github `r fontawesome::fa("github")`
+#     url: "https://github.com/emdann"
+#   - label: Twitter `r fontawesome::fa("twitter")`
+#     url: "https://twitter.com/emmamarydann"
+#   - label: Google Scholar `r fontawesome::fa("graduation-cap")`
+#     url: "https://scholar.google.com/citations?hl=en&user=J2NQ29wAAAAJ"
+#   - label: Linkedin `r fontawesome::fa("linkedin")`
+#     url: "https://www.linkedin.com/in/emma-dann-566945125/"
+#   - label: Email `r fontawesome::fa("envelope")`
+#     url: "mailto:emma.dann@sanger.ac.uk"
+#   - label: CV
+#     url: "https://emdann.github.io/one-column-paged.pdf"
+output:
+  postcards::solana:
+  # includes:
+  #     in_header: header.html
+---
+Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free differential expression testing. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531744v1) | [R package](https://github.com/MarioniLab/miloDE)
+
+Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531713v1) | [python package](https://github.com/Teichlab/Genes2Genes)
+
+Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _biorXiv_ | [Full text](https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.13.519713.full.pdf)
+
+Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Single cell antigen receptor analysis reveals lymphocyte developmental origins, _biorXiv_  
+[Full text](https://www.biorxiv.org/content/10.1101/2022.11.18.517068v1) | 
+[python package](https://github.com/zktuong/dandelion)
+
+`r emo::ji("key")` **Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv_  
+[Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
+[code](https://github.com/MarioniLab/oor_design_reproducibility) | 
+[python package](https://github.com/MarioniLab/oor_benchmark) 
+
+Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D., Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _arXiv_  
+<sup>\*Equal Contribution</sup>  
+[Full text](https://arxiv.org/pdf/2209.06716.pdf) 
+
+Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M., Multi-organ functions of yolk sac during human early development. _biorXiv_  
+[Full text](https://www.biorxiv.org/content/10.1101/2022.08.03.502475v1.full.pdf) 
+
+`r emo::ji("key")` Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022), Mapping the developing human immune system across organs. _Science_  
+<sup>\*Equal Contribution</sup>  
+[Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)
+
+Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2022) Cell2location maps fine-grained cell types in spatial transcriptomics. _Nature Biotechnology_  
+[Full text](https://doi.org/10.1038/s41587-021-01139-4) |
+[python package](https://cell2location.readthedocs.io/)
+
+He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _bioRxiv_  
+[Full text](https://doi.org/10.1101/2022.01.11.474933)
+
+`r emo::ji("key")` **Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_  
+<!-- <sup>\*Equal Contribution</sup> -->
+[Full text](https://www.nature.com/articles/s41587-021-01033-z) | 
+[R package](https://github.com/MarioniLab/miloR) | 
+[python package](https://github.com/emdann/milopy)
+
+Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, _Nature_   
+[Full text](https://doi.org/10.1038/s41586-021-03929-x)
+
+Elmentaite R., Kumasaka N., Roberts K., Fleming A., **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, _Nature_   
+[Full text](https://www.nature.com/articles/s41586-021-03852-1)
+
+Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) Single-cell multi-omics analysis of the immune response in COVID-19, _Nature Medicine_  
+[Full text](https://www.nature.com/articles/s41591-021-01329-2)
+
+<!-- Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2020) Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics, bioRxiv, [doi: https://doi.org/10.1101/2020.11.15.378125](https://doi.org/10.1101/2020.11.15.378125) -->
+
+Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_  
+[Full text](https://www.jci.org/articles/view/131041)
