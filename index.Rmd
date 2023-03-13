@@ -20,10 +20,12 @@ output:
       in_header: header.html
 ---
  
-## About me `r emo::ji('woman_technologist')`
+<!-- ## About me `r emo::ji('woman_technologist')` -->
+<br/>
+
 
 I'm a PhD student in computational biology in the [Cellular Genetics programme](https://www.sanger.ac.uk/programme/cellular-genetics/) at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). 
 
 I work on statistical methods and tools for analyzing single-cell omics data. My research focuses on quantifying differences between biological conditions, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on human tissue immunology. 
 
-I make [open source software](https://github.com/MarioniLab/miloR), [analysis workflows](https://github.com/MarioniLab/oor_benchmark) and [curate data resources](https://github.com/Teichlab/Pan_fetal_immune#mapping-the-developing-human-immune-system-across-organs.)
+I make [open source software](https://github.com/MarioniLab/miloR), [analysis workflows](https://github.com/MarioniLab/oor_benchmark) and [curate data resources](https://github.com/Teichlab/Pan_fetal_immune#mapping-the-developing-human-immune-system-across-organs.).
