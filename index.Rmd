@@ -13,7 +13,7 @@ links:
   - label: Publications `r fontawesome::fa("graduation-cap")`
     url: "https://emdann.github.io/pubs.html"
   - label: CV
-    url: "https://emdann.github.io/one-column-paged.pdf"
+    url: "https://emdann.github.io/Dann-cv-onecol.pdf"
 output:
   postcards::solana:
   includes:
