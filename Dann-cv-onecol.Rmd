@@ -60,15 +60,12 @@ library(fontawesome)
 
 ## Education {.education .nohead .set-width}
 
-**PhD in Biological Sciences (Computational Biology)** -- University of Cambridge, UK (2019-present)  
-Supervisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni  
+**PhD in Biological Sciences (Computational Biology)** -- University of Cambridge, UK (2019-present)  | Supervisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni  
 <!-- Cambridge University advisor: Dr. Neil D. Lawrence -->
 
-**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (2017-2019)  
-Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
+**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (2017-2019) | Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
 
-**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT  (2014-2017)  
-Final grade: 110 _cum laude_/110 
+**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT  (2014-2017)  | Final grade: 110 _cum laude_/110 
 <!-- ### B.Sc. in Biomolecular Sciences and Technology - University of Trento -->
 
 <!-- Final grade: 110 _cum laude_/110  -->
@@ -79,7 +76,7 @@ Final grade: 110 _cum laude_/110
 
 ## Professional experience
 **Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (2019 -- present)  
-[Teichmann lab](http://www.teichlab.org/) / [Marioni group](https://www.ebi.ac.uk/research/marioni) -- Computational methods for comparative single-cell analysis of developmental atlases
+[Teichmann lab](http://www.teichlab.org/) / [Marioni group](https://www.ebi.ac.uk/research/marioni) -- Computational methods for comparative analysis of single-cell omics data
 <!-- - Differential cell abundance analysis -->
 <!-- - Analysis of human developmental atlases -->
 <!-- - Methods for joint scATAC-seq and scRNA-seq data -->
@@ -151,7 +148,7 @@ Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong 
 Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_ |
 [Full text](https://www.jci.org/articles/view/131041)
 
-\newpage
+<!-- \newpage -->
 
 ## Software
 
@@ -198,11 +195,8 @@ May 2022 - Satija lab @ New York Genome Center
 Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge  
 
 <!-- <br class="pageBreak"> -->
-
 <!-- ## Courses -->
-
 <!-- **Gaussian Process and Uncertainty Quantification Summer School** (2020) -->
-
 <!-- **Accelerate Science Winter School** (2021) -->
 
 ## Teaching and mentoring experience
@@ -213,23 +207,9 @@ Jul 2022 - [Systems biology: From large datasets to biological insight - EMBL-EB
 
 Apr 2022 - [Advanced topics in Single Cell Genomics - SIB course](https://www.sib.swiss/training/course/20220426_ADVSC) | Trainer for multi-omics module  
 
-Sept 2021 -- Dec 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
-
 Aug 2021 - [Advanced topics in Single Cell Genomics - Joint SciLifeLab-SIB Summer School](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/) | Trainer for multi-omics project  
 
-## Professional service 
-
-#### Conference/workshop organization
-
-Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) | Co-organizer  
-Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) | Member of the organizing committee.  
-
-#### Peer review
-Nature Biotechnology (2\* papers)  
-Cell (1\* paper)  
-OUP Bioinformatics (1 paper)  
-Bioinformatics Advances (1 paper)  
-<sup>\*Assisting a senior reviewer</sup> 
+Sept 2021 -- Dec 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
 
 ## Fellowships & awards
 
@@ -239,17 +219,29 @@ Jan 2018 - U/Select honours programme and travel grant - Utrecht University
 Oct 2017 - Merit Award - University of Trento  
 <!-- Cash prize for excellent graduates established to reward their skills and their commitment to study -->
 
-<!-- ## Academic referees -->
-<!-- - Dr Sarah A. Teichmann FMedSci FRS - Head of Cellular Genetics programme st9<at>sanger.ac.uk -->
-<!-- - Dr John C. Marioni - marioni<at>ebi.ac.uk -->
-<!-- - Dr Wolfgang Huber - wolfgang.huber<at>embl.de -->
+## Professional service 
 
-## Leadership & Outreach
+#### Conference/workshop organization
+
+Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) | Co-organizer  
+Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) | Member of the organizing committee.  
+
+#### Outreach
 
 Oct 2015 -- Jan 2018 - [OWL - Open Wet Lab](http://www.openwetlab.it/home-en/) |
 <!-- Board member and director of scientific outreach blog -->
 OWL is the first biohacking organization in Italy. I was board member and directed the publication of OWL's blog and scientific outreach articles for local newspapers. 
 
-Nov 2012 -- Apr 2015 - [Model European Parliament](https://mepeurope.eu) |
-International simulation of the working of the European Parliament for high school students. I was delegate, committee president and president of the general assembly at many local and international MEP sessions. 
 
+#### Peer review
+Nature Biotechnology (2\* papers)  
+Cell (1\* paper)  
+OUP Bioinformatics (1 paper)  
+Bioinformatics Advances (1 paper)  
+<sup>\*Assisting a senior reviewer</sup> 
+
+## Academic referees
+- Prof. Sarah A. Teichmann - st9\<at\>sanger.ac.uk
+- Dr John C. Marioni - marioni\<at\>ebi.ac.uk
+- Prof. Muzlifah Haniffa - mh32\<at\>sanger.ac.uk
+- Dr Wolfgang Huber - wolfgang.huber\<at\>embl.de
