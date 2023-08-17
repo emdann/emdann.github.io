@@ -76,7 +76,7 @@ library(fontawesome)
 
 ## Professional experience
 **Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (2019 -- present)  
-[Teichmann lab](http://www.teichlab.org/) / [Marioni group](https://www.ebi.ac.uk/research/marioni) -- Computational methods for comparative analysis of single-cell omics data
+[Teichmann lab](http://www.teichlab.org/) / [Marioni group](https://www.ebi.ac.uk/research/marioni) -- Comparative analysis of single-cell omics data
 <!-- - Differential cell abundance analysis -->
 <!-- - Analysis of human developmental atlases -->
 <!-- - Methods for joint scATAC-seq and scRNA-seq data -->
@@ -97,11 +97,11 @@ Lab equipment maintenance and general support for benchwork.
 
 #### Key publications 
 
-**Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
+**Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv (accepted at Nature Genetics)_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
 [python package](https://github.com/MarioniLab/oor_benchmark)
 
-Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
+Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
 [Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
 <sup>\*Equal Contribution</sup>  
 
@@ -111,6 +111,11 @@ Suo C.\*, __Dann E.__\*, ... , Clatworthy M., Haniffa M., Teichmann S.A. (2022) 
 [python package](https://github.com/emdann/milopy)
 
 #### Other 
+
+Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins, _Nature Biotechnology_  | [Full text](https://www.nature.com/articles/s41587-023-01734-7) | 
+[python package](https://github.com/zktuong/dandelion)
+
+Heumos L., ... **Single-cell Best Practices Consortium**, ... , Theis F.J. (2023) Best practices for single-cell analysis across modalities. _Nature Review Genetics_ | [full text](https://www.nature.com/articles/s41576-023-00586-w) 
 
 Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free differential expression testing. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531744v1) | [R package](https://github.com/MarioniLab/miloDE)
 
@@ -158,6 +163,8 @@ Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (
 
 **oor_benchmark** |  <i class="fab fa-github"></i> [MarioniLab/oor_benchmark](https://github.com/emdann/oor_benchmark) | primary developer | python framework to benchmark workflows for detection of out-of-reference cells in comparative single-cell analysis 
 
+**genomic-features** | <i class="fab fa-github"></i> [scverse/genomic-features](https://github.com/scverse/genomic-features) | primary developer | Genomic annotations using Bioconductor resources in Python.
+
 **scverse-tutorials** | <i class="fab fa-github"></i> [scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | contributor | tutorials for single-cell omics data analysis in python
 
 **single-cell-best-practices** | <i class="fab fa-github"></i> [theislab/single-cell-best-practices](https://www.sc-best-practices.org/preamble.html) | contributor | open source book on best practices for single-cell genomics data analysis
@@ -176,20 +183,30 @@ Oct 2021 - Chan Zuckerberg Initiative Single Cell Biology Meeting, virtual
 Sept 2021 - Next Generation Genomics Meeting, virtual  
 Mar 2021 - CZI Seed Networks Computational biology meeting, virtual  
 
+\newpage
 #### Invited seminars 
-Dec 2022 - UMC Utrecht single-cell genomics meeting, virtual   
-Sept 2022 - UK Conference of Bioinformatics and Computational Biology, virtual  
+August 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual   
+July 2023 - Sanofi Precision Medicine & Computational biology, Cambridge (US)  
+Jun 2023 - Chan Zuckerberg Initiative, Redwood City (US)  
+Apr 2023 - Cambridge AI club for biomedicine, Milner Institute, Cambridge (UK)    
+Dec 2022 - UMC Utrecht single-cell genomics meeting, virtual    
+Sept 2022 - UK Conference of Bioinformatics and Computational Biology, virtual   
 Jul 2022 - Computational Health Center seminar, Helmholtz Munich (DE)  
 Apr 2022 - Maxwell Society Annual Conference, King's College London (UK)  
 Apr 2022 - NYU Langone single cell journal club, virtual  
 Mar 2021 - Cambridge Center for Physical Biology Single Cell Symposium, virtual  
 
 #### Conference poster presentations
-October 2022 - Single Cell Genomics conference, Utrecht (NL)    
-Jun 2021 - Human Cell Atlas General Meeting, virtual 
+July 2023 - Human Cell Atlas General Meeting, Toronto (CA)  
+October 2022 - Single Cell Genomics conference, Utrecht (NL)      
+Jun 2021 - Human Cell Atlas General Meeting, virtual   
 
 #### Lab meetings 
-Jan 2023 - Theis lab @ ICB Helmholtz Munich  
+August 2023 - Marson lab @ Gladstone Institutes   
+June 2023 - Shalek lab @ Broad institute of MIT and Harvard   
+June 2023 - Ye lab @ UCSF   
+May 2023 - Pritchard lab @ Stanford Genetics   
+Jan 2023 - Theis lab @ ICB Helmholtz Munich    
 May 2022 - Pe'er lab @ Memorial Sloan Kettering Cancer Center  
 May 2022 - Satija lab @ New York Genome Center  
 Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge  
@@ -223,6 +240,7 @@ Oct 2017 - Merit Award - University of Trento
 
 #### Conference/workshop organization
 
+Nov 2023 - [Scverse community hackathon, Wellcome Genome Campus](https://scverse.org/events/) | Organizer  
 Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) | Co-organizer  
 Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) | Member of the organizing committee.  
 
