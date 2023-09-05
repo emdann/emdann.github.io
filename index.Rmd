@@ -1,9 +1,8 @@
 ---
 title: "Emma Dann"
-image: "edann_2.jpg"
+image: "edann_1.jpg"
 links:
   - label: ed6-at-sanger.ac.uk `r fontawesome::fa("envelope")`
-    url: "mailto:emma.dann@sanger.ac.uk"
   - label: Github `r fontawesome::fa("github")`  
     url: "https://github.com/emdann"
   - label: Twitter `r fontawesome::fa("twitter")`

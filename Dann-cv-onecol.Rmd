@@ -112,6 +112,8 @@ Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the dev
 
 #### Other 
 
+Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
+
 Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins, _Nature Biotechnology_  | [Full text](https://www.nature.com/articles/s41587-023-01734-7) | 
 [python package](https://github.com/zktuong/dandelion)
 
@@ -122,9 +124,6 @@ Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free diff
 Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531713v1) | [python package](https://github.com/Teichlab/Genes2Genes)
 
 Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _biorXiv_ | [Full text](https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.13.519713.full.pdf)
-
-Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Single cell antigen receptor analysis reveals lymphocyte developmental origins, _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.18.517068v1) | 
-[python package](https://github.com/zktuong/dandelion)
 
 He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _Cell_ |
 [Full text](https://www.cell.com/cell/fulltext/S0092-8674(22)01415-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422014155%3Fshowall%3Dtrue)
@@ -250,16 +249,17 @@ Oct 2015 -- Jan 2018 - [OWL - Open Wet Lab](http://www.openwetlab.it/home-en/) |
 <!-- Board member and director of scientific outreach blog -->
 OWL is the first biohacking organization in Italy. I was board member and directed the publication of OWL's blog and scientific outreach articles for local newspapers. 
 
-
 #### Peer review
+
 Nature Biotechnology (2\* papers)  
 Cell (1\* paper)  
 OUP Bioinformatics (1 paper)  
 Bioinformatics Advances (1 paper)  
 <sup>\*Assisting a senior reviewer</sup> 
 
-## Academic referees
-- Prof. Sarah A. Teichmann - st9\<at\>sanger.ac.uk
-- Dr John C. Marioni - marioni\<at\>ebi.ac.uk
-- Prof. Muzlifah Haniffa - mh32\<at\>sanger.ac.uk
-- Dr Wolfgang Huber - wolfgang.huber\<at\>embl.de
+
+<!-- ## Academic referees -->
+<!-- - Prof. Sarah A. Teichmann - st9\<at\>sanger.ac.uk -->
+<!-- - Dr John C. Marioni - marioni\<at\>ebi.ac.uk -->
+<!-- - Prof. Muzlifah Haniffa - mh32\<at\>sanger.ac.uk -->
+<!-- - Dr Wolfgang Huber - wolfgang.huber\<at\>embl.de -->
