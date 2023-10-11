@@ -199,7 +199,7 @@ Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge
 
 Apr 2023 - Scverse community hackathon on software interoperability, Heidelberg (DE)  
 Dec 2022 - Scverse community hackathon on documentation, Innsbruck (AT)  
-Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/)  
+Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/), virtual  
 
 <!-- <br class="pageBreak"> -->
 <!-- ## Courses -->
@@ -233,7 +233,7 @@ Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)
 #### Conference/workshop organization
 
 Nov 2023 - Scverse hackathon on multi-condition analysis tools, Cambridge (UK) - main organizer  
-Fall 2023 - [Open Problems Single-cell perturbations Kaggle competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview) - member of judge panel
+Fall 2023 - [Open Problems Single-cell perturbations Kaggle competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview) - member of judge panel  
 Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) - co-organizer  
 Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) - member of the organizing committee 
 
