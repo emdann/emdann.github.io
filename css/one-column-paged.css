@@ -9,11 +9,11 @@ body {
 
 :root{
   --page-width: 8.5in;
-  --pagedjs-margin-right: 1in;
-  --pagedjs-margin-left: 1in;
-  --pagedjs-margin-top: 1in;
-  --pagedjs-margin-bottom: 1in;
-  --root-font-size: 11pt;
+  --pagedjs-margin-right: 0.5in;
+  --pagedjs-margin-left: 0.5in;
+  --pagedjs-margin-top: 0.5in;
+  --pagedjs-margin-bottom: 0.5in;
+  --root-font-size: 10pt;
   --viewer-pages-spacing: 12px;
   --viewer-shadow-color: #313131; /* this marks the pages */
 }
@@ -79,6 +79,12 @@ h2 {
   margin-bottom: 0.3em;
   font-size: 1.5em;
   font-weight: normal;
+}
+
+h4 {
+  margin-top: 0.3em;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 

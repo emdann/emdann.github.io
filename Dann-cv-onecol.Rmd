@@ -12,7 +12,9 @@ knit: pagedown::chrome_print
 
 ```{css, echo=FALSE}
 a {
-  color: #710C0C
+  color: #710C0C;
+  font-weight: normal;
+  text-decoration: none;
 }
 ```
 
@@ -25,14 +27,13 @@ library(fontawesome)
 ```
 
 
-<center>
+<!-- <center> -->
 
-`r fa("map-marker-alt", fill = '#710C0C')`  Wellcome Sanger Institute, Cambridge (UK) \ | \  `r fa("envelope", fill = '#710C0C')`  emma.dann\@sanger.ac.uk  \
-`r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ 
-`r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \ | \ 
-`r fa("twitter", fill = '#710C0C')`   [\@emmamarydann](https://twitter.com/emmamarydann)  
+`r fa("map-marker-alt", fill = '#710C0C')`  Wellcome Sanger Institute, Hinxton CB10 1RQ (UK) \    
+`r fa("envelope", fill = '#710C0C')`  emma.dann\@sanger.ac.uk \ | \ `r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ 
+`r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \ 
 
-</center>
+<!-- </center> -->
 
 <!-- <div class="grid-container">  -->
 <!-- top row -->
@@ -41,102 +42,75 @@ library(fontawesome)
 <!-- I’m a PhD student in computational biology, working on statistical methods for complex single-cell genomics datasets. I'm passionate about open science and equality in and out of science. -->
 <!-- ``` -->
 
-<!-- ```{block type='grid-item', echo=TRUE} -->
-<!-- ## Contact information {.box} -->
-<!-- <div class="info-box"> -->
-
-<!-- | Center | Left | -->
-<!-- |:------:|:-----| -->
-<!-- `r fa("map-marker-alt", fill = "steelblue")`  Wellcome Sanger Institute, Cambridge (UK) -->
-<!-- `r fa("envelope", fill = "steelblue")`   emma.dann\@sanger.ac.uk  -->
-<!-- `r fa("globe", fill = "steelblue")`   [emdann.github.io](https://emdann.github.io)  -->
-<!-- `r fa("github", fill = "steelblue")`   [emdann](https://github.com/emdann)  -->
-<!-- `r fa("twitter", fill = "steelblue")`   [\@emmamarydann](https://twitter.com/emmamarydann)  -->
- 
-<!-- </div> -->
-<!-- ``` -->
-
 <!-- </div> -->
 
 ## Education {.education .nohead .set-width}
 
-**PhD in Biological Sciences (Computational Biology)** -- University of Cambridge, UK (2019-present)  | Supervisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni  
-<!-- Cambridge University advisor: Dr. Neil D. Lawrence -->
+**PhD in Biological Sciences** -- University of Cambridge, UK (Oct 2019 -- expected Oct 2023)                    
+Advisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni                                                  
+Thesis title: *Discovering variation from cell atlases: comparative methods for single-cell genomics*  
 
-**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (2017-2019) | Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
+**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (Sept 2017 -- Aug 2019)     
+Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
 
-**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT  (2014-2017)  | Final grade: 110 _cum laude_/110 
-<!-- ### B.Sc. in Biomolecular Sciences and Technology - University of Trento -->
-
-<!-- Final grade: 110 _cum laude_/110  -->
-
-<!-- Trento, IT -->
-
-<!-- 2014 -->
+**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT (Sept 2014 -- July 2017)    
+Final grade: 110 _cum laude_/110 
 
 ## Professional experience
-**Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (2019 -- present)  
-[Teichmann lab](http://www.teichlab.org/) / [Marioni group](https://www.ebi.ac.uk/research/marioni) -- Comparative analysis of single-cell omics data
+
+**Data science consultant -- Ensocell Ltd** (Oct 2023 -- present)   
+Target discovery platform and analysis of single-cell data
+
+**Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (Oct 2019 -- present)    
+Supervised by Sarah Teichmann and John Marioni. Comparative analysis of single-cell omics data.
 <!-- - Differential cell abundance analysis -->
 <!-- - Analysis of human developmental atlases -->
 <!-- - Methods for joint scATAC-seq and scRNA-seq data -->
 
-**Research intern -- European Molecular Biology Laboratory, Heidelberg, DE** (2018 -- 2019)  
-[Huber group](https://www.huber.embl.de/) -- Integrative analysis of multi-omic profiles of perturbations for functional characterization of drug treatments and target discovery.
+**Research intern -- European Molecular Biology Laboratory, Heidelberg, DE** (Sept 2018 -- Aug 2019)    
+Supervised by Wolfgang Huber. Integrative analysis of multi-omic profiles of perturbations for functional characterization of drug treatments and target discovery.
 
-**Research intern -- KNAW Hubrecht Institute, Utrecht, NL** (2017 -- 2018)  
-[Van Oudenaarden lab](https://www.hubrecht.eu/research-groups/van-oudenaarden-group/) -- Biophysical modelling of whole-genome amplification via random priming, to predict and enhance coverage of single-cell bisulfite sequencing experiments.
+**Research intern -- KNAW Hubrecht Institute, Utrecht, NL** (Sept 2017 -- Aug 2018)     
+Supervised by Alexander Van Ourdenaarden. Biophysical modelling of whole-genome amplification via random priming, to predict and enhance coverage of single-cell bisulfite sequencing experiments.
 
-**Research intern -- Center for Integrative Biology, University of Trento, IT** (2017)  
-[Demichelis lab](http://demichelislab.eu/) -- Computational analysis of whole-methylome profiles of tumor samples from a large cohort of prostate cancer patients, for epigenetic biomarker discovery. 
+**Research intern -- Center for Integrative Biology, University of Trento, IT** (Feb 2017 -- July 2017)    
+Supervised by Francesca Demichelis. Computational analysis of whole-methylome profiles of tumor samples from a large cohort of prostate cancer patients, for epigenetic biomarker discovery. 
 
-**Research assistant -- Center for Integrative Biology, University of Trento, IT** (2016)  
+**Research assistant -- Center for Integrative Biology, University of Trento, IT** (Feb 2016 -- Feb 2017)     
 Lab equipment maintenance and general support for benchwork.
 
 ## Publications
 
-#### Key publications 
+<sup>(\*) denotes equal contribution as co-first author</sup>
 
-**Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv (accepted at Nature Genetics)_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
+#### Journal articles  
+
+**Dann E.**, Teichmann S.A., Marioni J.C. (2023) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
 [python package](https://github.com/MarioniLab/oor_benchmark)
 
-Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
-[Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
-<sup>\*Equal Contribution</sup>  
-
-**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_ |
-[Full text](https://www.nature.com/articles/s41587-021-01033-z) | 
-[R package](https://github.com/MarioniLab/miloR) | 
-[python package](https://github.com/emdann/milopy)
-
-#### Other 
-
-Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
+Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M. (2022) Yolk sac cell atlas reveals multiorgan functions during human early development. _Science_ |
+[Full text](https://www.science.org/doi/full/10.1126/science.add7564) 
 
 Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins, _Nature Biotechnology_  | [Full text](https://www.nature.com/articles/s41587-023-01734-7) | 
 [python package](https://github.com/zktuong/dandelion)
 
-Heumos L., ... **Single-cell Best Practices Consortium**, ... , Theis F.J. (2023) Best practices for single-cell analysis across modalities. _Nature Review Genetics_ | [full text](https://www.nature.com/articles/s41576-023-00586-w) 
+Heumos L., ... **Single-cell Best Practices Consortium**, ... , Theis F.J. (2023) Best practices for single-cell analysis across modalities. _Nature Review Genetics_ | [Full text](https://www.nature.com/articles/s41576-023-00586-w)
 
-Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free differential expression testing. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531744v1) | [R package](https://github.com/MarioniLab/miloDE)
-
-Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531713v1) | [python package](https://github.com/Teichlab/Genes2Genes)
-
-Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _biorXiv_ | [Full text](https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.13.519713.full.pdf)
+Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
+[Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
 
 He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _Cell_ |
 [Full text](https://www.cell.com/cell/fulltext/S0092-8674(22)01415-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422014155%3Fshowall%3Dtrue)
 
-Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)   
-<sup>\*Equal Contribution</sup>  
-
-Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M. (2022) Multi-organ functions of yolk sac during human early development. _biorXiv_ |
-[Full text](https://www.biorxiv.org/content/10.1101/2022.08.03.502475v1.full.pdf) 
-
 Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2022) Cell2location maps fine-grained cell types in spatial transcriptomics. _Nature Biotechnology_ |
 [Full text](https://doi.org/10.1038/s41587-021-01139-4) |
 [python package](https://cell2location.readthedocs.io/)
+
+**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2022) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_ |
+[Full text](https://www.nature.com/articles/s41587-021-01033-z) | 
+[R package](https://github.com/MarioniLab/miloR) | 
+[python package](https://github.com/emdann/milopy)
 
 Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, _Nature_ |
 [Full text](https://doi.org/10.1038/s41586-021-03929-x)
@@ -149,10 +123,22 @@ Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong 
 
 <!-- Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2020) Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics, bioRxiv, [doi: https://doi.org/10.1101/2020.11.15.378125](https://doi.org/10.1101/2020.11.15.378125) -->
 
-Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_ |
-[Full text](https://www.jci.org/articles/view/131041)
+Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_ | [Full text](https://www.jci.org/articles/view/131041)
 
-<!-- \newpage -->
+#### Conference papers
+
+Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)   
+
+#### Pre-prints
+<!-- Oliver A., ... , **Dann. E.**, ... , Elmentaite R., Teichmann S.A. (2023) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _(under review at Nature)_ -->
+
+Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
+
+Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531713v1) | [python package](https://github.com/Teichlab/Genes2Genes)
+
+Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free differential expression testing. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531744v1) | [R package](https://github.com/MarioniLab/miloDE)
+
+Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _biorXiv_ | [Full text](https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.13.519713.full.pdf)
 
 ## Software
 
@@ -170,22 +156,21 @@ Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (
 
 **cell2location** | <i class="fab fa-github"></i> [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | contributor | python package for mapping of tissue cell types via integration of single cell RNA-seq and spatial transcriptomics data
 
-**SingleCellOpenProblems** | <i class="fab fa-github"></i> [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor | A python framework to formalize and benchmark open problems in single-cell genomics data analysis.
+<!-- **SingleCellOpenProblems** | <i class="fab fa-github"></i> [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor | A python framework to formalize and benchmark open problems in single-cell genomics data analysis. -->
 
 ## Presentations
 
 #### Conference oral presentations
 Nov 2022 - Machine Learning in Computational Biology conference, virtual  
 June 2022 - Single Cell Biology conference, Wellcome Genome Campus, Hinxton (UK)  
-May 2022 - The Biology of Genomes | Cold Spring Harbor Laboratory (US)  
+May 2022 - The Biology of Genomes, Cold Spring Harbor Laboratory (US)  
 Oct 2021 - Chan Zuckerberg Initiative Single Cell Biology Meeting, virtual  
 Sept 2021 - Next Generation Genomics Meeting, virtual  
 Mar 2021 - CZI Seed Networks Computational biology meeting, virtual  
 
-\newpage
 #### Invited seminars 
-August 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual   
-July 2023 - Sanofi Precision Medicine & Computational biology, Cambridge (US)  
+Aug 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual  
+Jul 2023 - Sanofi Precision Medicine & Computational biology, Cambridge (US)  
 Jun 2023 - Chan Zuckerberg Initiative, Redwood City (US)  
 Apr 2023 - Cambridge AI club for biomedicine, Milner Institute, Cambridge (UK)    
 Dec 2022 - UMC Utrecht single-cell genomics meeting, virtual    
@@ -197,57 +182,69 @@ Mar 2021 - Cambridge Center for Physical Biology Single Cell Symposium, virtual
 
 #### Conference poster presentations
 July 2023 - Human Cell Atlas General Meeting, Toronto (CA)  
-October 2022 - Single Cell Genomics conference, Utrecht (NL)      
+Oct 2022 - Single Cell Genomics conference, Utrecht (NL)      
 Jun 2021 - Human Cell Atlas General Meeting, virtual   
 
 #### Lab meetings 
-August 2023 - Marson lab @ Gladstone Institutes   
-June 2023 - Shalek lab @ Broad institute of MIT and Harvard   
-June 2023 - Ye lab @ UCSF   
+Aug 2023 - Marson lab @ Gladstone Institutes   
+Jun 2023 - Shalek lab @ Broad institute of MIT and Harvard   
+Jun 2023 - Ye lab @ UCSF   
 May 2023 - Pritchard lab @ Stanford Genetics   
 Jan 2023 - Theis lab @ ICB Helmholtz Munich    
 May 2022 - Pe'er lab @ Memorial Sloan Kettering Cancer Center  
 May 2022 - Satija lab @ New York Genome Center  
 Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge  
 
+#### Other meetings and events
+
+Apr 2023 - Scverse community hackathon on software interoperability, Heidelberg (DE)  
+Dec 2022 - Scverse community hackathon on documentation, Innsbruck (AT)  
+Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/)  
+
 <!-- <br class="pageBreak"> -->
 <!-- ## Courses -->
 <!-- **Gaussian Process and Uncertainty Quantification Summer School** (2020) -->
 <!-- **Accelerate Science Winter School** (2021) -->
 
-## Teaching and mentoring experience
+\newpage
 
-Mar 2023 - [Introduction to multiomics data integration and visualisation](https://www.ebi.ac.uk/training/events/introduction-multiomics-data-integration-and-visualisation-2/#vf-tabs__section--tab2) | Instructor for data integration case study
+## Teaching & mentoring experience
 
-Jul 2022 - [Systems biology: From large datasets to biological insight - EMBL-EBI Training](https://www.ebi.ac.uk/training/materials/systems-biology-large-datasets-biological-insight-handbook-2022/) | Instructor for single-cell multi-omics module  
+Mar 2023 - Introduction to multiomics data integration and visualisation (EMBL-EBI training course) -- Instructor for data integration case study
 
-Apr 2022 - [Advanced topics in Single Cell Genomics - SIB course](https://www.sib.swiss/training/course/20220426_ADVSC) | Trainer for multi-omics module  
+Jul 2022 - Systems biology: From large datasets to biological insight (EMBL-EBI training course) -- Instructor for single-cell multi-omics module  
 
-Aug 2021 - [Advanced topics in Single Cell Genomics - Joint SciLifeLab-SIB Summer School](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/) | Trainer for multi-omics project  
+Apr 2022 - Advanced topics in Single Cell Genomics (Swiss Institute for Bioinformatics course) -- Trainer for multi-omics module  
 
-Sept 2021 -- Dec 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
+Aug 2021 - Advanced topics in Single Cell Genomics (SciLifeLab / Swiss Institute for Bioinformatics Summer School) -- Trainer for multi-omics project
+
+Fall 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
 
 ## Fellowships & awards
 
-Oct 2019 -- Oct 2023 - 4-year Wellcome Sanger Institute PhD studentship (2019-2023)  
-Jan 2018 - U/Select honours programme and travel grant - Utrecht University  
-<!-- Honours programme for selected students of the Graduate School of Life Sciences, incl. travel grant to perform M.Sc. research project abroad -->
-Oct 2017 - Merit Award - University of Trento  
-<!-- Cash prize for excellent graduates established to reward their skills and their commitment to study -->
+Oct 2019 - Wellcome Sanger Institute PhD studentship (Wellcome Trust, UK)
+
+Jan 2018 - U/Select honours programme and travel grant (Utrecht University, NL)  
+
+Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)
 
 ## Professional service 
 
 #### Conference/workshop organization
 
-Nov 2023 - [Scverse community hackathon, Wellcome Genome Campus](https://scverse.org/events/) | Organizer  
-Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) | Co-organizer  
-Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) | Member of the organizing committee.  
+Nov 2023 - Scverse hackathon on multi-condition analysis tools, Cambridge (UK) - main organizer  
+Fall 2023 - [Open Problems Single-cell perturbations Kaggle competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview) - member of judge panel
+Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) - co-organizer  
+Feb 2020 - [EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) - member of the organizing committee 
 
 #### Outreach
 
-Oct 2015 -- Jan 2018 - [OWL - Open Wet Lab](http://www.openwetlab.it/home-en/) |
+Sanger prize competition - member of the selection panel (Mar 2023)  
+*The Sanger Prize competition funds research internships at Sanger for undergraduate students from LMI countries. I've volunteered as a member of the Grad Panel, evaluating essays from applicants.*  
+
+Open Wet Lab (OWL) - board member (Oct 2015 -- Jan 2018)  
 <!-- Board member and director of scientific outreach blog -->
-OWL is the first biohacking organization in Italy. I was board member and directed the publication of OWL's blog and scientific outreach articles for local newspapers. 
+*OWL is the first biohacking organization in Italy. I was in charge of the association's budget and directed the publication of OWL's blog and scientific outreach articles for local newspapers.*
 
 #### Peer review
 
@@ -255,8 +252,8 @@ Nature Biotechnology (2\* papers)
 Cell (1\* paper)  
 OUP Bioinformatics (1 paper)  
 Bioinformatics Advances (1 paper)  
+Machine Learning in Computational Biology (MLCB)  
 <sup>\*Assisting a senior reviewer</sup> 
-
 
 <!-- ## Academic referees -->
 <!-- - Prof. Sarah A. Teichmann - st9\<at\>sanger.ac.uk -->
