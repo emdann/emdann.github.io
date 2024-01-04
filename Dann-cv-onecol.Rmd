@@ -46,7 +46,7 @@ library(fontawesome)
 
 ## Education {.education .nohead .set-width}
 
-**PhD in Biological Sciences** -- University of Cambridge, UK (Oct 2019 -- expected Oct 2023)                    
+**PhD in Biological Sciences** -- University of Cambridge, UK (Oct 2019 -- Oct 2023)                    
 Advisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni                                                  
 Thesis title: *Discovering variation from cell atlases: comparative methods for single-cell genomics*  
 
@@ -54,7 +54,7 @@ Thesis title: *Discovering variation from cell atlases: comparative methods for 
 Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
 
 **B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT (Sept 2014 -- July 2017)    
-Final grade: 110 _cum laude_/110 
+Final grade: 110 _cum laude_/110 (Avg. grade: 29.58/30)
 
 ## Professional experience
 
@@ -62,7 +62,7 @@ Final grade: 110 _cum laude_/110
 Target discovery platform and analysis of single-cell data
 
 **Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (Oct 2019 -- present)    
-Supervised by Sarah Teichmann and John Marioni. Comparative analysis of single-cell omics data.
+Supervised by Sarah Teichmann and John Marioni. Statistical methods for comparative analysis of single-cell omics data.
 <!-- - Differential cell abundance analysis -->
 <!-- - Analysis of human developmental atlases -->
 <!-- - Methods for joint scATAC-seq and scRNA-seq data -->
@@ -85,14 +85,16 @@ Lab equipment maintenance and general support for benchwork.
 
 #### Journal articles  
 
+Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _Science Immunology_ | [Full text](https://www.science.org/doi/full/10.1126/sciimmunol.adf9988)
+
 **Dann E.**, Teichmann S.A., Marioni J.C. (2023) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
 [python package](https://github.com/MarioniLab/oor_benchmark)
 
-Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M. (2022) Yolk sac cell atlas reveals multiorgan functions during human early development. _Science_ |
+Botting R.A., Goh I., ... , **Dann E.**, ... , Teichmann S.A. , Haniffa M. (2023) Yolk sac cell atlas reveals multiorgan functions during human early development. _Science_ |
 [Full text](https://www.science.org/doi/full/10.1126/science.add7564) 
 
-Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins, _Nature Biotechnology_  | [Full text](https://www.nature.com/articles/s41587-023-01734-7) | 
+Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2023) Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins, _Nature Biotechnology_  | [Full text](https://www.nature.com/articles/s41587-023-01734-7) | 
 [python package](https://github.com/zktuong/dandelion)
 
 Heumos L., ... **Single-cell Best Practices Consortium**, ... , Theis F.J. (2023) Best practices for single-cell analysis across modalities. _Nature Review Genetics_ | [Full text](https://www.nature.com/articles/s41576-023-00586-w)
@@ -130,6 +132,9 @@ Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (
 Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)   
 
 #### Pre-prints
+
+Yayon N., Kedlian V., ... , **Dann E.**, ... , Teichmann S.A. (2023) A spatial human thymus cell atlas mapped to a continuous tissue axis. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.10.25.562925v1.full.pdf)
+
 <!-- Oliver A., ... , **Dann. E.**, ... , Elmentaite R., Teichmann S.A. (2023) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _(under review at Nature)_ -->
 
 Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
@@ -138,7 +143,6 @@ Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene
 
 Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free differential expression testing. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531744v1) | [R package](https://github.com/MarioniLab/miloDE)
 
-Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _biorXiv_ | [Full text](https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.13.519713.full.pdf)
 
 ## Software
 
@@ -169,6 +173,7 @@ Sept 2021 - Next Generation Genomics Meeting, virtual
 Mar 2021 - CZI Seed Networks Computational biology meeting, virtual  
 
 #### Invited seminars 
+Dec 2023 - Google DeepMind, London (UK)  
 Aug 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual  
 Jul 2023 - Sanofi Precision Medicine & Computational biology, Cambridge (US)  
 Jun 2023 - Chan Zuckerberg Initiative, Redwood City (US)  
