@@ -87,7 +87,7 @@ Lab equipment maintenance and general support for benchwork.
 
 Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _Science Immunology_ | [Full text](https://www.science.org/doi/full/10.1126/sciimmunol.adf9988)
 
-**Dann E.**, Teichmann S.A., Marioni J.C. (2023) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
+**Dann E.**, Cujba A.M., Oliver A., Meyer K., Teichmann S.A., Marioni J.C. (2023) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
 [python package](https://github.com/MarioniLab/oor_benchmark)
 
