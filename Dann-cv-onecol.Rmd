@@ -58,6 +58,9 @@ Final grade: 110 _cum laude_/110 (Avg. grade: 29.58/30)
 
 ## Professional experience
 
+**Core team member -- scverse consortium** (Feb 2024 -- present)  
+Community and teaching 
+
 **Data science consultant -- Ensocell Ltd** (Oct 2023 -- present)   
 Target discovery platform and analysis of single-cell data
 
@@ -210,8 +213,6 @@ Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems
 <!-- ## Courses -->
 <!-- **Gaussian Process and Uncertainty Quantification Summer School** (2020) -->
 <!-- **Accelerate Science Winter School** (2021) -->
-
-\newpage
 
 ## Teaching & mentoring experience
 
