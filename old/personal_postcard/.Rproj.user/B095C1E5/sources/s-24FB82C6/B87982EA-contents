@@ -1,0 +1,202 @@
+---
+#date: "`r Sys.Date()`"
+output:
+  pagedown::html_paged:
+    # offline
+    css: ["css/one-column-paged.css"]
+    # "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
+    number_sections: false
+title: "Emma Dann"
+links-to-footnotes: false
+---
+
+```{css, echo=FALSE}
+a {
+  color: #710C0C
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(knitr)
+library(lubridate)
+library(fontawesome)
+
+#### publications #####
+publications <- read_csv("content/publications.csv")
+
+#### cv entries #####
+cv_entries <- read_csv("content/cv_entries.csv") %>% 
+  mutate(year_begin = year(date_begin)) %>%
+  mutate(year_end = case_when(
+    date_end == "present" ~ date_end,
+    !is.na(date_end) ~ str_sub(date_end, 1, 4),
+    is.na(date_end) ~ date_end
+  )) %>%
+  mutate(year = ifelse((is.na(year_end) | year_begin == year_end),
+                      year_begin,
+                      str_c(year_begin, " --- ", year_end)))
+
+```
+
+
+<center>
+
+`r fa("map-marker-alt", fill = '#710C0C')`  Wellcome Sanger Institute, Cambridge (UK) \ | \  `r fa("envelope", fill = '#710C0C')`  emma.dann\@sanger.ac.uk  \
+`r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ 
+`r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \ | \ 
+`r fa("twitter", fill = '#710C0C')`   [\@emmamarydann](https://twitter.com/emmamarydann)  
+
+</center>
+
+<!-- <div class="grid-container">  -->
+<!-- top row -->
+<!-- ```{block type="grid-item", echo=TRUE} -->
+<!-- ## Personal summary {.summary} -->
+<!-- I’m a PhD student in computational biology, working on statistical methods for complex single-cell genomics datasets. I'm passionate about open science and equality in and out of science. -->
+<!-- ``` -->
+
+<!-- ```{block type='grid-item', echo=TRUE} -->
+<!-- ## Contact information {.box} -->
+<!-- <div class="info-box"> -->
+
+<!-- | Center | Left | -->
+<!-- |:------:|:-----| -->
+<!-- `r fa("map-marker-alt", fill = "steelblue")`  Wellcome Sanger Institute, Cambridge (UK) -->
+<!-- `r fa("envelope", fill = "steelblue")`   emma.dann\@sanger.ac.uk  -->
+<!-- `r fa("globe", fill = "steelblue")`   [emdann.github.io](https://emdann.github.io)  -->
+<!-- `r fa("github", fill = "steelblue")`   [emdann](https://github.com/emdann)  -->
+<!-- `r fa("twitter", fill = "steelblue")`   [\@emmamarydann](https://twitter.com/emmamarydann)  -->
+ 
+<!-- </div> -->
+<!-- ``` -->
+
+<!-- </div> -->
+
+## Education {.education .nohead .set-width}
+
+**PhD in Biological Sciences (Computational Biology)** -- University of Cambridge, UK (2019-present)  
+Supervisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni  
+Cambridge University advisor: Dr. Neil D. Lawrence
+
+**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (2017-2019)  
+Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
+
+**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT  (2014-2017)  
+Final grade: 110 _cum laude_/110 
+<!-- ### B.Sc. in Biomolecular Sciences and Technology - University of Trento -->
+
+<!-- Final grade: 110 _cum laude_/110  -->
+
+<!-- Trento, IT -->
+
+<!-- 2014 -->
+
+## Professional experience
+**Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (2019 -- present)  
+[Teichmann lab](http://www.teichlab.org/) / [Marioni group](https://www.ebi.ac.uk/research/marioni) -- Statistical methods for comparative meta-analysis of single-cell datasets
+<!-- - Differential cell abundance analysis -->
+<!-- - Analysis of human developmental atlases -->
+<!-- - Methods for joint scATAC-seq and scRNA-seq data -->
+
+**Research intern -- European Molecular Biology Laboratory, Heidelberg, DE** (2018 -- 2019)  
+[Huber group](https://www.huber.embl.de/) -- Integrative analysis of multi-omic profiles of perturbations for functional characterization of drug treatments and target discovery.
+
+**Research intern -- KNAW Hubrecht Institute, Utrecht, NL** (2017 -- 2018)  
+[Van Oudenaarden lab](https://www.hubrecht.eu/research-groups/van-oudenaarden-group/) -- Biophysical modelling of whole-genome amplification via random priming, to predict and enhance coverage of single-cell bisulfite sequencing experiments.
+
+**Research intern -- Center for Integrative Biology, University of Trento, IT** (2017)  
+[Demichelis lab](http://demichelislab.eu/) -- Computational analysis of whole-methylome profiles of tumor samples from a large cohort of prostate cancer patients, for epigenetic biomarker discovery. 
+
+**Research assistant -- Center for Integrative Biology, University of Trento, IT** (2016)  
+Lab equipment maintenance and general support for benchwork.
+
+## Software
+
+**miloR** | <i class="fab fa-github"></i> [MarioniLab/miloR](https://github.com/MarioniLab/miloR) | primary developer | R/Bioconductor package for the identification of differential cell abundance in KNN graphs for single-cell data
+
+**milopy** | <i class="fab fa-github"></i> [emdann/milopy](https://github.com/emdann/milopy) | primary developer | python package for the identification of differential cell abundance in KNN graphs for single-cell data
+
+**cell2location** | <i class="fab fa-github"></i> [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | contributor | python package for mapping of tissue cell types via integration of single cell RNA-seq and spatial transcriptomics data
+
+**SingleCellOpenProblems** | <i class="fab fa-github"></i> [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor
+
+## Publications
+
+**Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2020) Differential abundance testing on single-cell data using k-nearest neighbor graphs, Nature Biotechnology [doi:10.1038/s41587-021-01033-z](https://www.nature.com/articles/s41587-021-01033-z)
+
+Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, Nature [doi:10.1038/s41586-021-03929-x](https://doi.org/10.1038/s41586-021-03929-x)
+
+Elmentaite R., Kumasaka N., Roberts K., Fleming A., **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, Nature [doi:10.1038/s41586-021-03852-1](https://www.nature.com/articles/s41586-021-03852-1)
+
+Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) Single-cell multi-omics analysis of the immune response in COVID-19, Nature Medicine [doi:10.1038/s41591-021-01329-2](https://www.nature.com/articles/s41591-021-01329-2)
+
+Kleshchevnikov V., Shmatko A., **Dann E**., …, Stegle O., Bayraktar O.A. (2020) Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics, bioRxiv, [doi:10.1101/2020.11.15.378125](https://doi.org/10.1101/2020.11.15.378125)
+
+Beltran H., Romanel A., … , **Dann E.**, … , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, Journal of Clinical Investigation, doi:10.1172/JCI131041
+
+## Talks / presentations
+
+Chan Zuckerberg Initiative Single Cell Biology Meeting (Oct 2021)  
+_Milo: differential abundance testing on single-cell data using KNN graphs_ (selected talk)
+
+Next Generation Genomics Meeting (Sept 2021)  
+_Differential abundance testing on single-cell data using KNN graphs_ (selected talk)
+
+Human Cell Atlas General Meeting (Jun 2021)  
+_Mapping human immune system development across fetal organs_ (poster presentation)
+
+Cambridge Center for Physical Biology Single Cell Symposium (Mar 2021)  
+_Milo: differential abundance testing on single-cell data using KNN graphs_ (invited talk)
+
+Chan Zuckerberg Initiative Seed Networks Computational biology meeting (Mar 2021)  
+_Milo: differential abundance testing on single-cell data using KNN graphs_ (short talk)
+
+<br class="pageBreak">
+
+## Courses
+
+**Gaussian Process and Uncertainty Quantification Summer School** (2020)
+
+**Accelerate Science Winter School** (2021)
+
+## Other projects
+
+[Advanced topics in Single Cell Genomics - Joint SciLifeLab-SIB Summer School](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/) (2021)   
+Trainer for multi-omics project
+
+[Open Problems in Single-Cell Analysis - Spring Jamboree](https://openproblems.bio/jamboree/) (2021)  
+Co-organizer and hacker.
+
+[EBI-Sanger-Cambridge PhD Symposium](https://escamps.org/escamps20/) (2020)  
+Member of the organizing committee.
+
+[OWL - Open Wet Lab](http://www.openwetlab.it/home-en/) (2015 -- 2018)  
+<!-- Board member and director of scientific outreach blog -->
+OWL is the first biohacking organization in Italy. I served as board member and directed the publication of OWL's blog and scientific outreach articles for local newspapers. 
+
+[Model European Parliament](https://mepeurope.eu) (2012 -- 2015)  
+International simulation of the working of the European Parliament for high school students. I was delegate, committee president and president of the general assembly at many local and international MEP sessions. 
+
+<!-- ## Academic service -->
+
+<!-- **Peer review** -->
+<!-- _Nature Biotechnology_ -->
+<!-- _Bioinformatics_ -->
+
+## Fellowships / awards
+
+4-year Wellcome Sanger Institute PhD studentship (2019-2023)
+
+U/Select honours programme and travel grant - Utrecht University  (2018)  
+<!-- Honours programme for selected students of the Graduate School of Life Sciences, incl. travel grant to perform M.Sc. research project abroad -->
+
+Merit Award - University of Trento (2017)  
+<!-- Cash prize for excellent graduates established to reward their skills and their commitment to study -->
+
+<!-- ## Academic referees -->
+
+<!-- - Dr Sarah A. Teichmann FMedSci FRS - Head of Cellular Genetics programme st9<at>sanger.ac.uk -->
+<!-- - Dr John C. Marioni - marioni<at>ebi.ac.uk -->
+<!-- - Dr Wolfgang Huber - wolfgang.huber<at>embl.de -->
