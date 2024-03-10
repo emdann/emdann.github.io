@@ -42,7 +42,7 @@ I'm a computational biologist working on statistical methods and best practices 
 
 My research focuses on quantifying differences between biological conditions in single-cell data, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on human tissue immunology. Here is a list of [publications](https://emdann.github.io/pubs.html).
 
-My work relies on open science, sharing of resources and know-how. I am part of the core team of the [scverse consortium](scverse.org), developing and maintaining foundational tools for omics data analysis in python.
+My work relies on open science, sharing of resources and know-how. I am part of the core team of the [scverse consortium](https://scverse.org/), developing and maintaining foundational tools for omics data analysis in python.
 
 <!-- I make [open source software](https://github.com/MarioniLab/miloR), [analysis workflows](https://github.com/MarioniLab/oor_benchmark) and [curate data resources](https://github.com/Teichlab/Pan_fetal_immune#mapping-the-developing-human-immune-system-across-organs.). -->
 <!-- I enjoy several activities and I excel at none: watching movies, reading fiction, board games, cooking, running, cycling, petting dogs. I grew up in Ferrara. -->

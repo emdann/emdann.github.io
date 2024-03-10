@@ -80,8 +80,8 @@ html_theme_options = {
     "sidebar_hide_name": False,
     "light_css_variables": {
         "font-stack": "acumin-pro, sans-serif",
-        "color-background-primary": "#fffff8",
-        "color-background-secondary": "#fffff8",
+        "color-background-primary": "#f5e9dc",
+        "color-background-secondary": "#f5e9dc",
         "color-background-hover": "#F5F3ED",
         "color-brand-primary": "black",
         "color-brand-content": "#A46F0D",
