@@ -1,2 +1,8 @@
-.ipynb_checkpoints/
-.Rproj.user
+__site
+node_modules
+.DS_Store
+.vscode
+.jekyll-metadata
+archives/
+
+_build/

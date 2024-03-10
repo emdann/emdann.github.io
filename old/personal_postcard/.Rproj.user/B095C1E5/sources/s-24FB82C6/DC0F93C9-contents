@@ -1,0 +1,66 @@
+---
+title: "Emma Dann"
+image: "edann_2.jpg"
+links:
+  - label: Github `r fontawesome::fa("github")`  
+    url: "https://github.com/emdann"
+  - label: Twitter `r fontawesome::fa("twitter")`
+    url: "https://twitter.com/emmamarydann"
+  - label: Google Scholar `r fontawesome::fa("graduation-cap")`
+    url: "https://scholar.google.com/citations?hl=en&user=J2NQ29wAAAAJ"
+  - label: Linkedin `r fontawesome::fa("linkedin")`
+    url: "https://www.linkedin.com/in/emma-dann-566945125/"
+  - label: Email `r fontawesome::fa("envelope")`
+    url: "mailto:emma.dann@sanger.ac.uk"
+  - label: CV
+    url: "https://emdann.github.io/one-column-paged.pdf"
+output:
+  postcards::solana
+---
+ 
+## About me `r emo::ji('woman_technologist')`
+
+I'm a PhD student in computational biology in the [Cellular Genetics programme](https://www.sanger.ac.uk/programme/cellular-genetics/) at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). 
+
+I work on comparative analyses between single-cell datasets and efficient use of cell atlases, in the context of human development. 
+
+I like open source software, reproducible analyses, board games and slow movies.
+
+## Software `r emo::ji('computer')`
+
+**miloR** |  `r fontawesome::fa("github")`  [MarioniLab/miloR](https://github.com/MarioniLab/miloR) | primary developer | R/Bioconductor package for the identification of differential cell abundance in KNN graphs for single-cell data
+
+**milopy** |  `r fontawesome::fa("github")` [emdann/milopy](https://github.com/emdann/milopy) | primary developer | python package for the identification of differential cell abundance in KNN graphs for single-cell data
+
+**cell2location** |  `r fontawesome::fa("github")`  [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | contributor | python package for mapping of tissue cell types via integration of single cell RNA-seq and spatial transcriptomics data
+
+**SingleCellOpenProblems** |  `r fontawesome::fa("github")`  [singlecellopenproblems/SingleCellOpenProblems](https://github.com/singlecellopenproblems/SingleCellOpenProblems) | contributor
+
+## Publications `r emo::ji('scroll')` 
+
+Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2022) Cell2location maps fine-grained cell types in spatial transcriptomics. _Nature Biotechnology_  
+[Full text](https://doi.org/10.1038/s41587-021-01139-4) |
+[python package](https://cell2location.readthedocs.io/)
+
+He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _bioRxiv_  
+[Full text](https://doi.org/10.1101/2022.01.11.474933)
+
+`r emo::ji("boom")` **Dann E.**, Henderson N.C., Teichmann S.A., Morgan M.D., Marioni J.C. (2021) Differential abundance testing on single-cell data using k-nearest neighbor graphs, _Nature Biotechnology_  
+<!-- <sup>\*Equal Contribution</sup> -->
+[Full text](https://www.nature.com/articles/s41587-021-01033-z) | 
+[R package](https://github.com/MarioniLab/miloR) | 
+[python package](https://github.com/emdann/milopy)
+
+Jardine L., Webb S., ... , **Dann E.**, ... , Göttgens B., Roberts I., Teichmann S. and Haniffa M. (2021) Blood and immune development in human fetal bone marrow and Down syndrome, _Nature_   
+[Full text](https://doi.org/10.1038/s41586-021-03929-x)
+
+Elmentaite R., Kumasaka N., Roberts K., Fleming A., **Dann E.**, ... , James K.R., Teichmann S.A. (2021), Cells of the human intestinal tract mapped across space and time, _Nature_   
+[Full text](https://www.nature.com/articles/s41586-021-03852-1)
+
+Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) Single-cell multi-omics analysis of the immune response in COVID-19, _Nature Medicine_  
+[Full text](https://www.nature.com/articles/s41591-021-01329-2)
+
+<!-- Kleshchevnikov V., Shmatko A., **Dann E.**, ..., Stegle O.,  Bayraktar O.A. (2020) Comprehensive mapping of tissue cell architecture via integrated single cell and spatial transcriptomics, bioRxiv, [doi: https://doi.org/10.1101/2020.11.15.378125](https://doi.org/10.1101/2020.11.15.378125) -->
+
+Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_  
+[Full text](https://www.jci.org/articles/view/131041)
