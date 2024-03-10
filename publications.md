@@ -8,7 +8,7 @@
 <h3>Key publications</h3>
 <br>
 
-**Dann E.**, Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _biorXiv (accepted at Nature Genetics)_ | [Full text](https://www.biorxiv.org/content/10.1101/2022.11.10.515939v1) | 
+**Dann E.**, Cujba A.M., Oliver A.J., Meyer K., Teichmann S.A., Marioni J.C. (2022) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
 [python package](https://github.com/MarioniLab/oor_benchmark)
 
