@@ -18,8 +18,8 @@
 :columns: auto
 
 **Emma Dann**
-<br>
-Postdoctoral fellow, [Stanford University](),
+<!-- <br>
+Postdoctoral fellow, [Stanford University](), -->
 <br>
 ed6 [at] sanger [dot] ac [dot] uk
 <div>
@@ -31,6 +31,11 @@ ed6 [at] sanger [dot] ac [dot] uk
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path>
 </svg>
 </a>
+<a class="muted-link" style="text-decoration:none" href="https://scholar.google.com/citations?hl=en&user=J2NQ29wAAAAJ">
+<svg stroke="currentColor" fill="currentColor" width="1.2em" height="1.2em" stroke-width="0" viewBox="0 0 16 16">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M390.9 298.5c0 0 0 .1 .1 .1c9.2 19.4 14.4 41.1 14.4 64C405.3 445.1 338.5 512 256 512s-149.3-66.9-149.3-149.3c0-22.9 5.2-44.6 14.4-64h0c1.7-3.6 3.6-7.2 5.6-10.7c4.4-7.6 9.4-14.7 15-21.3c27.4-32.6 68.5-53.3 114.4-53.3c33.6 0 64.6 11.1 89.6 29.9c9.1 6.9 17.4 14.7 24.8 23.5c5.6 6.6 10.6 13.8 15 21.3c2 3.4 3.8 7 5.5 10.5zm26.4-18.8c-30.1-58.4-91-98.4-161.3-98.4s-131.2 40-161.3 98.4L0 202.7 256 0 512 202.7l-94.7 77.1z"/></svg>
+</svg>
+</a>
 </div>
 :::
 ::::
@@ -38,9 +43,9 @@ ed6 [at] sanger [dot] ac [dot] uk
 
 <h2>About</h2>
 
-I'm a computational biologist working on statistical methods and best practices for analyzing single-cell omics data. I recently obtained my PhD at the [Cellular Genetics programme](https://www.sanger.ac.uk/programme/cellular-genetics/) at the Wellcome Sanger Institute and the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) and [John Marioni](https://www.ebi.ac.uk/research/marioni). 
+I'm a computational biologist working on statistical methods and best practices for analyzing single-cell omics data. I recently obtained my PhD at the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) at the Wellcome Sanger Institute and [John Marioni](https://www.ebi.ac.uk/research/marioni) at the EMBL European Bioinformatics Institute. 
 
-My research focuses on quantifying differences between biological conditions in single-cell data, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on human tissue immunology. Here is a list of [publications](https://emdann.github.io/pubs.html).
+My research focuses on quantifying differences between biological conditions in single-cell data, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on human tissue immunology. 
 
 My work relies on open science, sharing of resources and know-how. I am part of the core team of the [scverse consortium](https://scverse.org/), developing and maintaining foundational tools for omics data analysis in python.
 
