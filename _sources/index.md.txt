@@ -43,7 +43,7 @@ emmadann [at] stanford [dot] edu
 
 <h2>About</h2>
 
-I'm a computational biologists using single-cell genomics data analysis to understand human complex traits and diseases. I am a post-doctoral fellow in the [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford University and a visiting fellow in the [Marson Lab](https://www.marsonlab.org/) at the Gladstone Institutes. 
+I'm a computational biologists using single-cell genomics data analysis to understand human complex traits and diseases. I am an EMBO post-doctoral fellow in the [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford University and a visiting fellow in the [Marson Lab](https://www.marsonlab.org/) at the Gladstone Institutes. 
 
 Previously, I obtained my PhD at the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) at the Wellcome Sanger Institute and [John Marioni](https://www.ebi.ac.uk/research/marioni) at the EMBL European Bioinformatics Institute. My PhD research focused on quantifying differences between biological conditions in single-cell genomics data, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on tissue immunology. 
 
