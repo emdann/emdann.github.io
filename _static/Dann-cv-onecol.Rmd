@@ -204,7 +204,6 @@ May 2022 - Satija lab @ New York Genome Center
 Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge  
 
 #### Other meetings and events
-
 Apr 2023 - Scverse community hackathon on software interoperability, Heidelberg (DE)  
 Dec 2022 - Scverse community hackathon on documentation, Innsbruck (AT)  
 Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/), virtual  
@@ -212,6 +211,17 @@ Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems
 <!-- ## Courses -->
 <!-- **Gaussian Process and Uncertainty Quantification Summer School** (2020) -->
 <!-- **Accelerate Science Winter School** (2021) -->
+
+## Fellowships & awards
+
+Jul 2024 - EMBO long-term post-doctoral fellowship
+
+Oct 2019 - Wellcome Sanger Institute PhD studentship (Wellcome Trust, UK)
+
+Jan 2018 - U/Select honours programme and travel grant (Utrecht University, NL)  
+
+Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)
+
 
 ## Teaching & mentoring experience
 
@@ -225,18 +235,11 @@ Aug 2021 - Advanced topics in Single Cell Genomics (SciLifeLab / Swiss Institute
 
 Fall 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
 
-## Fellowships & awards
-
-Oct 2019 - Wellcome Sanger Institute PhD studentship (Wellcome Trust, UK)
-
-Jan 2018 - U/Select honours programme and travel grant (Utrecht University, NL)  
-
-Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)
-
 ## Professional service 
 
 #### Conference/workshop organization
 
+Sept 2024 - Scverse conference, Munich (DE) - co-organizer 
 Nov 2023 - Scverse hackathon on multi-condition analysis tools, Cambridge (UK) - main organizer  
 Fall 2023 - [Open Problems Single-cell perturbations Kaggle competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview) - member of judge panel  
 Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) - co-organizer  
