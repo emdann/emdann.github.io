@@ -3,7 +3,7 @@
 output:
   pagedown::html_paged:
     # offline
-    css: ["css/one-column-paged.css", "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
+    css: ["css/one-column-paged.css",  "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
     number_sections: false
 title: "Emma Dann"
 links-to-footnotes: false
@@ -26,12 +26,10 @@ library(lubridate)
 library(fontawesome)
 ```
 
-
 <!-- <center> -->
 
-`r fa("map-marker-alt", fill = '#710C0C')` Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA) \    
-`r fa("envelope", fill = '#710C0C')`  emmadann\@stanford.edu \ | \ `r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ 
-`r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \ 
+`r fa("map-marker-alt", fill = '#710C0C')` Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA) \
+`r fa("envelope", fill = '#710C0C')`  emmadann\@stanford.edu \ | \ `r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ `r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \
 
 <!-- </center> -->
 
@@ -59,7 +57,7 @@ Final grade: 110 _cum laude_/110 (Avg. grade: 29.58/30)
 ## Professional experience
 
 **Post-doctoral fellow -- Stanford University, Palo Alto, USA** (May 2024 -- present)  
-Hosted by Jonathan Pritchard and Alex Marson (visiting fellow at Gladstone Institutes)
+Hosted by Jonathan Pritchard and Alex Marson (visiting fellow at Gladstone Institute for Genomic Immunology)
 
 **Core team member -- scverse consortium** (Feb 2024 -- present)  
 Community and teaching 
@@ -68,10 +66,7 @@ Community and teaching
 Target discovery platform and analysis of single-cell data
 
 **Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (Oct 2019 -- Jan 2024)    
-Supervised by Sarah Teichmann and John Marioni. Statistical methods for comparative analysis of single-cell omics data.
-<!-- - Differential cell abundance analysis -->
-<!-- - Analysis of human developmental atlases -->
-<!-- - Methods for joint scATAC-seq and scRNA-seq data -->
+Supervised by Sarah Teichmann and John Marioni. Statistical methods for comparative analysis of single-cell omics data.  
 
 **Research intern -- European Molecular Biology Laboratory, Heidelberg, DE** (Sept 2018 -- Aug 2019)    
 Supervised by Wolfgang Huber. Integrative analysis of multi-omic profiles of perturbations for functional characterization of drug treatments and target discovery.
@@ -90,6 +85,8 @@ Lab equipment maintenance and general support for benchwork.
 <sup>(\*) denotes equal contribution as co-first author</sup>
 
 #### Journal articles  
+
+Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Leveraging neighborhood representations of single-cell data to achieve sensitive DE testing with miloDE. _Genome Biology_ | [Full text](https://link.springer.com/article/10.1186/s13059-024-03334-3) | [R package](https://github.com/MarioniLab/miloDE)
 
 Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _Science Immunology_ | [Full text](https://www.science.org/doi/full/10.1126/sciimmunol.adf9988)
 
@@ -137,6 +134,10 @@ Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (
 
 #### Pre-prints
 
+Heumos L., Ji Y., ... , **Dann E.**, ..., Theis F.J. (2024) Pertpy: an end-to-end framework for perturbation analysis. _biorXiv_ |  [Full text](https://www.biorxiv.org/content/10.1101/2024.08.04.606516v1) | [python package](https://github.com/scverse/pertpy)
+
+Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saeys Y., Theis F.J., Krishnaswamy S. (2024) Defining and benchmarking open problems in single-cell analysis. | [Full text](https://www.researchsquare.com/article/rs-4181617/v1)
+
 Yayon N., Kedlian V., ... , **Dann E.**, ... , Teichmann S.A. (2023) A spatial human thymus cell atlas mapped to a continuous tissue axis. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.10.25.562925v1.full.pdf)
 
 <!-- Oliver A., ... , **Dann. E.**, ... , Elmentaite R., Teichmann S.A. (2023) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _(under review at Nature)_ -->
@@ -144,8 +145,6 @@ Yayon N., Kedlian V., ... , **Dann E.**, ... , Teichmann S.A. (2023) A spatial h
 Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
 
 Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531713v1) | [python package](https://github.com/Teichlab/Genes2Genes)
-
-Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free differential expression testing. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531744v1) | [R package](https://github.com/MarioniLab/miloDE)
 
 
 ## Software
@@ -157,6 +156,8 @@ Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Sensitive cluster-free diff
 **oor_benchmark** |  <i class="fab fa-github"></i> [MarioniLab/oor_benchmark](https://github.com/emdann/oor_benchmark) | primary developer | python framework to benchmark workflows for detection of out-of-reference cells in comparative single-cell analysis 
 
 **genomic-features** | <i class="fab fa-github"></i> [scverse/genomic-features](https://github.com/scverse/genomic-features) | primary developer | Genomic annotations using Bioconductor resources in Python.
+
+**pertpy** | <i class="fab fa-github"></i> [scverse/pertpy](https://github.com/scverse/pertpy) | contributor | perturbation analysis toolkit for the scverse ecosystem.
 
 **scverse-tutorials** | <i class="fab fa-github"></i> [scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | contributor | tutorials for single-cell omics data analysis in python
 
@@ -197,7 +198,7 @@ Jun 2021 - Human Cell Atlas General Meeting, virtual
 Aug 2023 - Marson lab @ Gladstone Institutes   
 Jun 2023 - Shalek lab @ Broad institute of MIT and Harvard   
 Jun 2023 - Ye lab @ UCSF   
-May 2023 - Pritchard lab @ Stanford Genetics   
+May 2023 - Pritchard lab @ Stanford University   
 Jan 2023 - Theis lab @ ICB Helmholtz Munich    
 May 2022 - Pe'er lab @ Memorial Sloan Kettering Cancer Center  
 May 2022 - Satija lab @ New York Genome Center  
@@ -239,7 +240,7 @@ Fall 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
 
 #### Conference/workshop organization
 
-Sept 2024 - Scverse conference, Munich (DE) - co-organizer 
+Sept 2024 - Scverse conference, Munich (DE) - co-organizer   
 Nov 2023 - Scverse hackathon on multi-condition analysis tools, Cambridge (UK) - main organizer  
 Fall 2023 - [Open Problems Single-cell perturbations Kaggle competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview) - member of judge panel  
 Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/) - co-organizer  
@@ -255,6 +256,7 @@ Open Wet Lab (OWL) - board member (Oct 2015 -- Jan 2018)
 
 #### Peer review
 
+Nature (1 paper)  
 Nature Biotechnology (2\* papers)  
 Cell (1\* paper)  
 OUP Bioinformatics (1 paper)  
