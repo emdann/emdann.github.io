@@ -18,7 +18,7 @@
 :columns: auto
 
 **Emma Dann**
-EMBO postdoctoral fellow  
+Postdoctoral fellow  
 
 Stanford University & Gladstone Institutes  
 
