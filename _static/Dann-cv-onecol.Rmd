@@ -2,7 +2,8 @@
 #date: "`r Sys.Date()`"
 output:
   pagedown::html_paged:
-    # offline
+    offline: true
+    favicon: null
     css: ["css/one-column-paged.css",  "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
     number_sections: false
 title: "Emma Dann"
@@ -28,8 +29,9 @@ library(fontawesome)
 
 <!-- <center> -->
 
-`r fa("map-marker-alt", fill = '#710C0C')` Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA) \
-`r fa("envelope", fill = '#710C0C')`  emmadann\@stanford.edu \ | \ `r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ `r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \
+ `r fa("map-marker-alt", fill = '#710C0C')` Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA) \. 
+ 
+ `r fa("envelope", fill = '#710C0C')`  emmadann\@stanford.edu \ | \ `r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ `r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \ 
 
 <!-- </center> -->
 
@@ -84,9 +86,17 @@ Lab equipment maintenance and general support for benchwork.
 
 <sup>(\*) denotes equal contribution as co-first author</sup>
 
-#### Journal articles  
+#### Journal articles
+
+Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _Nature Communications_ | [Full text](https://www.nature.com/articles/s41467-024-53340-z) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
+
+Yayon N., Kedlian V., Boehme L., ... , **Dann E**, ... , Uhlmann V., Notarangelo L.D., Germain R.N., Radtke A.J., Marioni J.C., Taghon T., Teichmann S.A. (2024) A spatial human thymus cell atlas mapped to a continuous tissue axis. _Nature_ | [Full text](https://www.nature.com/articles/s41586-024-07944-6)
+
+Oliver A.J., Ni H., ... , **Dann E.**, ..., Elmentaite R., Teichmann S.A. (2024) Single-cell integration reveals metaplasia in inflammatory gut diseases. _Nature_ | [Full text](https://www.nature.com/articles/s41586-024-07571-1)
 
 Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Leveraging neighborhood representations of single-cell data to achieve sensitive DE testing with miloDE. _Genome Biology_ | [Full text](https://link.springer.com/article/10.1186/s13059-024-03334-3) | [R package](https://github.com/MarioniLab/miloDE)
+
+Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories. _Nature Methods_ | [Full text](https://www.nature.com/articles/s41592-024-02378-4) | [python package](https://github.com/Teichlab/Genes2Genes)
 
 Barnes J. L., He P., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. B., Nikolic M. Z.  (2022) Early human lung immune cell development and its role in epithelial cell fate. _Science Immunology_ | [Full text](https://www.science.org/doi/full/10.1126/sciimmunol.adf9988)
 
@@ -128,31 +138,21 @@ Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong 
 
 Beltran H., Romanel A., ... , **Dann E.**, ... , Benelli M., and Demichelis F. (2020) Circulating Tumor DNA Profile Recognizes Transformation to Castration-Resistant Neuroendocrine Prostate Cancer, _Journal of Clinical Investigation_ | [Full text](https://www.jci.org/articles/view/131041)
 
-#### Conference papers
-
-Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)   
-
 #### Pre-prints
 
-Oliver A.J., Ni H., ... , **Dann E.**, ..., Elmentaite R., Teichmann S.A. (2024) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _biorXiv (accepted at Nature)_ | [Full text](https://www.biorxiv.org/content/10.1101/2024.10.11.614415v1.abstract)
+Ota M., Spence J.P., Zeng T., **Dann E.**, Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.01.22.634424v1)
 
 Heumos L., Ji Y., ... , **Dann E.**, ..., Theis F.J. (2024) Pertpy: an end-to-end framework for perturbation analysis. _biorXiv_ |  [Full text](https://www.biorxiv.org/content/10.1101/2024.08.04.606516v1) | [python package](https://github.com/scverse/pertpy)
 
 __Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savova V., Rinaldis E., Teichmann S.A. (2024) Estimating the impact of single-cell RNA sequencing of
 human tissues on drug target validation., _medRxiv_ | [Full text](https://www.medrxiv.org/content/10.1101/2024.04.04.24305313v2.full.pdf) | 
 [code](https://github.com/emdann/sc_target_evidence)  
-<sup>\*Equal Contribution</sup>
 
 Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saeys Y., Theis F.J., Krishnaswamy S. (2024) Defining and benchmarking open problems in single-cell analysis. | [Full text](https://www.researchsquare.com/article/rs-4181617/v1)
 
-Yayon N., Kedlian V., ... , **Dann E.**, ... , Teichmann S.A. (2023) A spatial human thymus cell atlas mapped to a continuous tissue axis. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.10.25.562925v1.full.pdf)
+#### Conference papers
 
-<!-- Oliver A., ... , **Dann. E.**, ... , Elmentaite R., Teichmann S.A. (2023) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _(under review at Nature)_ -->
-
-Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
-
-Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.03.08.531713v1) | [python package](https://github.com/Teichlab/Genes2Genes)
-
+Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)
 
 ## Software
 
@@ -186,7 +186,7 @@ Mar 2021 - CZI Seed Networks Computational biology meeting, virtual
 Sept 2024 - BRAID Genentech, South San Francisco (US)
 Sept 2024 - Human Genetics department, University of Chicago, Chicago (US)
 Sept 2024 - SQLIFTS Lecture Series, Northwestern University, Chicago (US)
-Mar 2024 - Human Technopole, Milan (IT)  
+Mar 2024 - Human Technopole, Milan (IT)
 Dec 2023 - Google DeepMind, London (UK)  
 Aug 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual  
 Jul 2023 - Sanofi Precision Medicine & Computational biology, Cambridge (US)  
