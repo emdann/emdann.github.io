@@ -103,7 +103,7 @@ Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.
 Heumos L., ... **Single-cell Best Practices Consortium**, ... , Theis F.J. (2023) Best practices for single-cell analysis across modalities. _Nature Review Genetics_ | [Full text](https://www.nature.com/articles/s41576-023-00586-w)
 
 Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
-[Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
+[Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)
 
 He P., Lim K., Sun D., ... , **Dann E.**, ... , Meyer K.B., Rawlins E.L. (2022) A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation and key regulators of epithelial fates, _Cell_ |
 [Full text](https://www.cell.com/cell/fulltext/S0092-8674(22)01415-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422014155%3Fshowall%3Dtrue)
@@ -134,7 +134,14 @@ Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (
 
 #### Pre-prints
 
+Oliver A.J., Ni H., ... , **Dann E.**, ..., Elmentaite R., Teichmann S.A. (2024) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _biorXiv (accepted at Nature)_ | [Full text](https://www.biorxiv.org/content/10.1101/2024.10.11.614415v1.abstract)
+
 Heumos L., Ji Y., ... , **Dann E.**, ..., Theis F.J. (2024) Pertpy: an end-to-end framework for perturbation analysis. _biorXiv_ |  [Full text](https://www.biorxiv.org/content/10.1101/2024.08.04.606516v1) | [python package](https://github.com/scverse/pertpy)
+
+__Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savova V., Rinaldis E., Teichmann S.A. (2024) Estimating the impact of single-cell RNA sequencing of
+human tissues on drug target validation., _medRxiv_ | [Full text](https://www.medrxiv.org/content/10.1101/2024.04.04.24305313v2.full.pdf) | 
+[code](https://github.com/emdann/sc_target_evidence)  
+<sup>\*Equal Contribution</sup>
 
 Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saeys Y., Theis F.J., Krishnaswamy S. (2024) Defining and benchmarking open problems in single-cell analysis. | [Full text](https://www.researchsquare.com/article/rs-4181617/v1)
 
@@ -176,6 +183,9 @@ Sept 2021 - Next Generation Genomics Meeting, virtual
 Mar 2021 - CZI Seed Networks Computational biology meeting, virtual  
 
 #### Invited seminars 
+Sept 2024 - BRAID Genentech, South San Francisco (US)
+Sept 2024 - Human Genetics department, University of Chicago, Chicago (US)
+Sept 2024 - SQLIFTS Lecture Series, Northwestern University, Chicago (US)
 Mar 2024 - Human Technopole, Milan (IT)  
 Dec 2023 - Google DeepMind, London (UK)  
 Aug 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual  
@@ -194,15 +204,15 @@ July 2023 - Human Cell Atlas General Meeting, Toronto (CA)
 Oct 2022 - Single Cell Genomics conference, Utrecht (NL)      
 Jun 2021 - Human Cell Atlas General Meeting, virtual   
 
-#### Lab meetings 
-Aug 2023 - Marson lab @ Gladstone Institutes   
-Jun 2023 - Shalek lab @ Broad institute of MIT and Harvard   
-Jun 2023 - Ye lab @ UCSF   
-May 2023 - Pritchard lab @ Stanford University   
-Jan 2023 - Theis lab @ ICB Helmholtz Munich    
-May 2022 - Pe'er lab @ Memorial Sloan Kettering Cancer Center  
-May 2022 - Satija lab @ New York Genome Center  
-Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge  
+<!-- #### Lab meetings  -->
+<!-- Aug 2023 - Marson lab @ Gladstone Institutes    -->
+<!-- Jun 2023 - Shalek lab @ Broad institute of MIT and Harvard    -->
+<!-- Jun 2023 - Ye lab @ UCSF    -->
+<!-- May 2023 - Pritchard lab @ Stanford University    -->
+<!-- Jan 2023 - Theis lab @ ICB Helmholtz Munich     -->
+<!-- May 2022 - Pe'er lab @ Memorial Sloan Kettering Cancer Center   -->
+<!-- May 2022 - Satija lab @ New York Genome Center   -->
+<!-- Apr 2022 - Lawrence group @ Computer laboratory, University of Cambridge   -->
 
 #### Other meetings and events
 Apr 2023 - Scverse community hackathon on software interoperability, Heidelberg (DE)  
@@ -214,6 +224,8 @@ Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems
 <!-- **Accelerate Science Winter School** (2021) -->
 
 ## Fellowships & awards
+
+Nov 2024 - Helen Hay Whitney post-doctoral fellowship 
 
 Jul 2024 - EMBO long-term post-doctoral fellowship
 
