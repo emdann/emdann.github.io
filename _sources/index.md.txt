@@ -65,5 +65,5 @@ My work relies on open science, sharing of resources and know-how. I am part of 
 :titlesonly: true
 
 publications
-CV <https://emdann.github.io/_static/Dann-cv-onecol.pdf>
+CV <https://emdann.github.io/_static/Dann-cv-onecol.html>
 ```
