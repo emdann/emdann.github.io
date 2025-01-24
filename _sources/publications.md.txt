@@ -32,7 +32,13 @@ Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the dev
 <h3>Other publications</h3>
 <br>
 
-Oliver A.J., Ni H., ... , **Dann E.**, ..., Elmentaite R., Teichmann S.A. (2024) Single Cell Integration Characterises Gastric Cell Metaplasia in Inflammatory Intestinal Diseases. _biorXiv (accepted at Nature)_ | [Full text](https://www.biorxiv.org/content/10.1101/2024.10.11.614415v1.abstract)
+Ota M., Spence J.P., Zeng T., Dann E., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.01.22.634424v1)
+
+Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _Nature Communications_ | [Full text](https://www.nature.com/articles/s41467-024-53340-z) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
+
+Yayon N., Kedlian V., Boehme L., ... , **Dann E**, ... , Uhlmann V., Notarangelo L.D., Germain R.N., Radtke A.J., Marioni J.C., Taghon T., Teichmann S.A. (2024) A spatial human thymus cell atlas mapped to a continuous tissue axis. _Nature_ | [Full text](https://www.nature.com/articles/s41586-024-07944-6)
+
+Oliver A.J., Ni H., ... , **Dann E.**, ..., Elmentaite R., Teichmann S.A. (2024) Single-cell integration reveals metaplasia in inflammatory gut diseases. _Nature_ | [Full text](https://www.nature.com/articles/s41586-024-07571-1)
 
 Heumos L., Ji Y., ... , Dann E., ... , Theis F.J. Pertpy: an end-to-end framework for perturbation analysis. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2024.08.04.606516v1.full) | [python package](https://github.com/scverse/pertpy)
 
@@ -41,10 +47,6 @@ Missarova A., **Dann E.**, ... , J.C. Marioni (2023) Leveraging neighborhood rep
 Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories. _Nature Methods_ | [Full text](https://www.nature.com/articles/s41592-024-02378-4) | [python package](https://github.com/Teichlab/Genes2Genes)
 
 Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saeys Y., Theis F., Krishnaswamy S. (2024) Defining and benchmarking open problems in single-cell analysis. _Research Square_ | [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11030530/)
-
-Yayon N., Kedlian V., Boehme L., ... , **Dann E**, ... , Uhlmann V., Notarangelo L.D., Germain R.N., Radtke A.J., Marioni J.C., Taghon T., Teichmann S.A. (2023) A spatial human thymus cell atlas mapped to a continuous tissue axis. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.10.25.562925v1)
-
-Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _biorXiv (accepted at Nature Communications)_ | [Full text](https://www.biorxiv.org/content/10.1101/2023.08.23.554420v1.full) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
 
 Suo C., Polanski K., **Dann E.**, ... ,  Tuong Z.K., Clatworthy M., Teichmann S.A. (2022) Dandelion uses the single-cell adaptive immune receptor repertoire to explore lymphocyte developmental origins, _Nature Biotechnology_  | [Full text](https://www.nature.com/articles/s41587-023-01734-7) | 
 [python package](https://github.com/zktuong/dandelion)
