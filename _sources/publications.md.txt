@@ -32,7 +32,7 @@ Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the dev
 <h3>Other publications</h3>
 <br>
 
-Ota M., Spence J.P., Zeng T., Dann E., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.01.22.634424v1)
+Ota M., Spence J.P., Zeng T., **Dann E.**, Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.01.22.634424v1)
 
 Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _Nature Communications_ | [Full text](https://www.nature.com/articles/s41467-024-53340-z) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
 
