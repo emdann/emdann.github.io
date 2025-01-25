@@ -19,10 +19,8 @@
 
 **Emma Dann**
 Postdoctoral fellow  
-
-Stanford University & Gladstone Institutes  
-
-emmadann [at] stanford [dot] edu  
+[Stanford University](https://med.stanford.edu/genetics.html) & [Gladstone Institutes](https://gladstone.org/index.php/science/genomic-immunology-institute)  
+emmadann [at] stanford [dot] edu    
 
 <div>
 <a class="muted-link" style="text-decoration:none" href="https://bsky.app/profile/emmamarydann.bsky.social">
@@ -65,5 +63,5 @@ My work relies on open science, sharing of resources and know-how. I am part of 
 :titlesonly: true
 
 publications
-CV <https://emdann.github.io/_static/Dann-cv-onecol.html>
+CV <https://emdann.github.io/_static/Dann-cv.pdf>
 ```
