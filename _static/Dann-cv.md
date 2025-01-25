@@ -3,7 +3,7 @@ title: "Emma Dann"
 ---
 
 <i class="fa fa-map-marker-alt" style="color: #710C0C"></i> Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA)  
-<i class="fa fa-envelope" style="color: #710C0C"></i> emmadann@stanford.edu | <i class="fa globe" style="color: #710C0C"></i> [emdann.github.io](https://emdann.github.io) | <i class="fab fa-github"></i> [emdann](https://github.com/emdann)
+<i class="fa fa-envelope" style="color: #710C0C"></i> emmadann@stanford.edu | <i class="fa fa-globe" style="color: #710C0C"></i> [emdann.github.io](https://emdann.github.io) | <i class="fab fa-github"></i> [emdann](https://github.com/emdann)
 
 ## Education
 
