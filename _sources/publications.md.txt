@@ -2,9 +2,8 @@
 
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=J2NQ29wAAAAJ&view_op=list_works) or [CV](https://emdann.github.io/_static/Dann-cv.pdf) for a complete chronological list of publications.
 
-<br>
-<h3>Tissue and _ex vivo_ cell atlases to dissect genetic drivers of human complex disease</h3>
-<br>
+
+<h3>Tissue and ex vivo cell atlases to dissect genetic drivers of human complex disease</h3>
 
 Ota M., Spence J.P., Zeng T., **Dann E.**, Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.01.22.634424v1)
 
@@ -12,9 +11,8 @@ __Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savov
 [code](https://github.com/emdann/sc_target_evidence)  
 <sup>\*Equal Contribution</sup>
 
-<br>
+
 <h3>Comparative methods and design of multi-condition single-cell genomics studies</h3>
-<br>
 
 **Dann E.**, Cujba A.M., Oliver A.J., Meyer K., Teichmann S.A., Marioni J.C. (2023) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
@@ -34,9 +32,8 @@ Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene
 Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)   
 <sup>\*Equal Contribution</sup> 
 
-<br>
+
 <h3>Building the human cell atlas</h3>
-<br>
 
 Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the developing human immune system across organs. _Science_ |
 [Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
@@ -63,17 +60,15 @@ Elmentaite R., Kumasaka N., Roberts K., Fleming A., **Dann E.**, ... , James K.R
 Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong Z.K., Bach K., Sungnak W., ... , **Dann E.**, ... , Duncan C.J.A, Smith K., Teichmann S.A., Clatworthy M.R., Marioni J.C., Gottgens B., Haniffa M. (2020) Single-cell multi-omics analysis of the immune response in COVID-19, _Nature Medicine_ |
 [Full text](https://www.nature.com/articles/s41591-021-01329-2)
 
-<br>
+
 <h3>Establishing best practices for single-cell analysis</h3>
-<br>
 
 Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saeys Y., Theis F., Krishnaswamy S. (2024) Defining and benchmarking open problems in single-cell analysis. _Research Square_ | [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11030530/)
 
 Heumos L., ... **Single-cell Best Practices Consortium**, ... , Theis F.J. (2023) Best practices for single-cell analysis across modalities. _Nature Review Genetics_ | [full text](https://www.nature.com/articles/s41576-023-00586-w)
 
-<br>
+
 <h3>Computational methods for single-cell multi-omics</h3>
-<br>
 
 Schuster V., **Dann E.**, Krogh A., Teichmann S.A. (2023) multiDGD: A versatile deep generative model for multi-omics data. _Nature Communications_ | [Full text](https://www.nature.com/articles/s41467-024-53340-z) | [python package](https://github.com/Center-for-Health-Data-Science/multiDGD)
 
