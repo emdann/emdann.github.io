@@ -1,59 +1,20 @@
 ---
-#date: "`r Sys.Date()`"
-output:
-  pagedown::html_paged:
-    offline: true
-    favicon: null
-    css: ["css/one-column-paged.css",  "https://use.fontawesome.com/releases/v5.7.2/css/all.css"]
-    number_sections: false
 title: "Emma Dann"
-links-to-footnotes: false
-knit: pagedown::chrome_print
 ---
 
-```{css, echo=FALSE}
-a {
-  color: #710C0C;
-  font-weight: normal;
-  text-decoration: none;
-}
-```
+<i class="fa fa-map-marker-alt" style="color: #710C0C"></i> Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA)  
+<i class="fa fa-envelope" style="color: #710C0C"></i> emmadann@stanford.edu | <i class="fa globe" style="color: #710C0C"></i> [emdann.github.io](https://emdann.github.io) | <i class="fab fa-github"></i> [emdann](https://github.com/emdann)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-library(tidyverse)
-library(knitr)
-library(lubridate)
-library(fontawesome)
-```
+## Education
 
-<!-- <center> -->
-
- `r fa("map-marker-alt", fill = '#710C0C')` Department of Genetics, Stanford University, Palo Alto, California 94305-5120 (USA) \. 
- 
- `r fa("envelope", fill = '#710C0C')`  emmadann\@stanford.edu \ | \ `r fa("globe", fill = '#710C0C')` [emdann.github.io](https://emdann.github.io) \ | \ `r fa("github", fill = '#710C0C')`   [emdann](https://github.com/emdann) \ 
-
-<!-- </center> -->
-
-<!-- <div class="grid-container">  -->
-<!-- top row -->
-<!-- ```{block type="grid-item", echo=TRUE} -->
-<!-- ## Personal summary {.summary} -->
-<!-- I’m a PhD student in computational biology, working on statistical methods for complex single-cell genomics datasets. I'm passionate about open science and equality in and out of science. -->
-<!-- ``` -->
-
-<!-- </div> -->
-
-## Education {.education .nohead .set-width}
-
-**PhD in Biological Sciences** -- University of Cambridge, UK (Oct 2019 -- Oct 2023)                    
-Advisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni                                                  
+**PhD in Biological Sciences** -- University of Cambridge, UK (Oct 2019 -- Oct 2023)  
+Advisors: Dr. Sarah A. Teichmann, Dr. John C. Marioni  
 Thesis title: *Discovering variation from cell atlases: comparative methods for single-cell genomics*  
 
-**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (Sept 2017 -- Aug 2019)     
+**M.Sc. in Cancer, Stem Cells and Developmental Biology (Bioinformatics profile)** -- Utrecht University, NL (Sept 2017 -- Aug 2019)  
 Final grade: _cum laude_ (Honours, Avg. grade: 9.10/10) 
 
-**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT (Sept 2014 -- July 2017)    
+**B.Sc. in Biomolecular Sciences and Technology** -- University of Trento, IT (Sept 2014 -- July 2017)  
 Final grade: 110 _cum laude_/110 (Avg. grade: 29.58/30)
 
 ## Professional experience
@@ -61,25 +22,25 @@ Final grade: 110 _cum laude_/110 (Avg. grade: 29.58/30)
 **Post-doctoral fellow -- Stanford University, Palo Alto, USA** (May 2024 -- present)  
 Hosted by Jonathan Pritchard and Alex Marson (visiting fellow at Gladstone Institute for Genomic Immunology)
 
-**Core team member -- scverse consortium** (Feb 2024 -- present)  
-Community and teaching 
+**Core team member -- [scverse consortium](https://scverse.org/)** (Feb 2024 -- present)  
+Governance and community
 
-**Data science consultant -- Ensocell Ltd** (Oct 2023 -- Mar 2024)   
+**Data science consultant -- Ensocell Ltd** (Oct 2023 -- Mar 2024)  
 Target discovery platform and analysis of single-cell data
 
-**Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (Oct 2019 -- Jan 2024)    
+**Graduate researcher -- Wellcome Sanger Institute, Cambridge, UK** (Oct 2019 -- Jan 2024)  
 Supervised by Sarah Teichmann and John Marioni. Statistical methods for comparative analysis of single-cell omics data.  
 
-**Research intern -- European Molecular Biology Laboratory, Heidelberg, DE** (Sept 2018 -- Aug 2019)    
+**Research intern -- European Molecular Biology Laboratory, Heidelberg, DE** (Sept 2018 -- Aug 2019)  
 Supervised by Wolfgang Huber. Integrative analysis of multi-omic profiles of perturbations for functional characterization of drug treatments and target discovery.
 
-**Research intern -- KNAW Hubrecht Institute, Utrecht, NL** (Sept 2017 -- Aug 2018)     
-Supervised by Alexander Van Ourdenaarden. Biophysical modelling of whole-genome amplification via random priming, to predict and enhance coverage of single-cell bisulfite sequencing experiments.
+**Research intern -- KNAW Hubrecht Institute, Utrecht, NL** (Sept 2017 -- Aug 2018)  
+Supervised by Alexander Van Oudenaarden. Biophysical modelling of whole-genome amplification via random priming, to predict and enhance coverage of single-cell bisulfite sequencing experiments.
 
-**Research intern -- Center for Integrative Biology, University of Trento, IT** (Feb 2017 -- July 2017)    
+**Research intern -- Center for Integrative Biology, University of Trento, IT** (Feb 2017 -- July 2017)  
 Supervised by Francesca Demichelis. Computational analysis of whole-methylome profiles of tumor samples from a large cohort of prostate cancer patients, for epigenetic biomarker discovery. 
 
-**Research assistant -- Center for Integrative Biology, University of Trento, IT** (Feb 2016 -- Feb 2017)     
+**Research assistant -- Center for Integrative Biology, University of Trento, IT** (Feb 2016 -- Feb 2017)  
 Lab equipment maintenance and general support for benchwork.
 
 ## Publications
@@ -154,6 +115,15 @@ Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saey
 
 Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (2022) Modelling Technical and Biological Effects in scRNA-seq data with Scalable GPLVMs. _Proceedings of the 17th Machine Learning in Computational Biology meeting_ | [Full text](https://proceedings.mlr.press/v200/lalchand22a)
 
+
+## Fellowships & awards
+
+Nov 2024 - Helen Hay Whitney post-doctoral fellowship   
+Jul 2024 - EMBO long-term post-doctoral fellowship  
+Oct 2019 - Wellcome Sanger Institute PhD studentship (Wellcome Trust, UK)  
+Jan 2018 - U/Select honours programme and travel grant (Utrecht University, NL)  
+Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)  
+
 ## Software
 
 **miloR** | <i class="fab fa-github"></i> [MarioniLab/miloR](https://github.com/MarioniLab/miloR) | primary developer | R/Bioconductor package for the identification of differential cell abundance in KNN graphs for single-cell data
@@ -166,7 +136,7 @@ Lalchand V.\*, Ravuri A.\*, __Dann E.__\*, ... , Teichmann S.A., Lawrence N.D. (
 
 **pertpy** | <i class="fab fa-github"></i> [scverse/pertpy](https://github.com/scverse/pertpy) | contributor | perturbation analysis toolkit for the scverse ecosystem.
 
-**scverse-tutorials** | <i class="fab fa-github"></i> [scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | contributor | tutorials for single-cell omics data analysis in python
+<!-- **scverse-tutorials** | <i class="fab fa-github"></i> [scverse/scverse-tutorials](https://github.com/scverse/scverse-tutorials) | contributor | tutorials for single-cell omics data analysis in python -->
 
 **single-cell-best-practices** | <i class="fab fa-github"></i> [theislab/single-cell-best-practices](https://www.sc-best-practices.org/preamble.html) | contributor | open source book on best practices for single-cell genomics data analysis
 
@@ -219,24 +189,11 @@ Apr 2023 - Scverse community hackathon on software interoperability, Heidelberg 
 Dec 2022 - Scverse community hackathon on documentation, Innsbruck (AT)  
 Apr 2021 - [Open Problems in Single-Cell Analysis Jamboree](https://openproblems.bio/jamboree/), virtual  
 <!-- <br class="pageBreak"> -->
-<!-- ## Courses -->
-<!-- **Gaussian Process and Uncertainty Quantification Summer School** (2020) -->
-<!-- **Accelerate Science Winter School** (2021) -->
-
-## Fellowships & awards
-
-Nov 2024 - Helen Hay Whitney post-doctoral fellowship 
-
-Jul 2024 - EMBO long-term post-doctoral fellowship
-
-Oct 2019 - Wellcome Sanger Institute PhD studentship (Wellcome Trust, UK)
-
-Jan 2018 - U/Select honours programme and travel grant (Utrecht University, NL)  
-
-Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)
 
 
 ## Teaching & mentoring experience
+
+Winter 2025 - PhD rotation student recruitment and mentoring, Pritchard lab
 
 Mar 2023 - Introduction to multiomics data integration and visualisation (EMBL-EBI training course) -- Instructor for data integration case study
 
