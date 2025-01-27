@@ -226,8 +226,9 @@ Open Wet Lab (OWL) - board member (Oct 2015 -- Jan 2018)
 #### Peer review
 
 Nature (1 paper)  
-Nature Biotechnology (2\* papers)  
 Cell (1\* paper)  
+Nature Biotechnology (2\* papers)  
+Nature Genetics (1 paper)
 OUP Bioinformatics (1 paper)  
 Bioinformatics Advances (1 paper)  
 Machine Learning in Computational Biology (MLCB)  
