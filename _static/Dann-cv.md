@@ -145,6 +145,7 @@ Oct 2017 - Merit Award for excellent graduates (University of Trento, IT)
 ## Presentations
 
 #### Conference oral presentations
+Apr 2025 - Chan Zuckerberg Initiative Cell Science Meeting, Chicago (US)  
 Nov 2022 - Machine Learning in Computational Biology conference, virtual  
 June 2022 - Single Cell Biology conference, Wellcome Genome Campus, Hinxton (UK)  
 May 2022 - The Biology of Genomes, Cold Spring Harbor Laboratory (US)  
@@ -153,10 +154,10 @@ Sept 2021 - Next Generation Genomics Meeting, virtual
 Mar 2021 - CZI Seed Networks Computational biology meeting, virtual  
 
 #### Invited seminars 
-Sept 2024 - BRAID Genentech, South San Francisco (US)
-Sept 2024 - Human Genetics department, University of Chicago, Chicago (US)
-Sept 2024 - SQLIFTS Lecture Series, Northwestern University, Chicago (US)
-Mar 2024 - Human Technopole, Milan (IT)
+Sept 2024 - BRAID Genentech, South San Francisco (US)  
+Sept 2024 - Human Genetics department, University of Chicago, Chicago (US)  
+Sept 2024 - SQLIFTS Lecture Series, Northwestern University, Chicago (US)  
+Mar 2024 - Human Technopole, Milan (IT)  
 Dec 2023 - Google DeepMind, London (UK)  
 Aug 2023 - University of Sri Jayewardenepura single-cell genomics seminar series, virtual  
 Jul 2023 - Sanofi Precision Medicine & Computational biology, Cambridge (US)  
@@ -209,6 +210,7 @@ Fall 2021 - PhD rotation student recruitment and mentoring, Teichmann lab
 
 #### Conference/workshop organization
 
+Nov 2025 - Scverse conference, Palo Alto (US) - main organizer   
 Sept 2024 - Scverse conference, Munich (DE) - co-organizer   
 Nov 2023 - Scverse hackathon on multi-condition analysis tools, Cambridge (UK) - main organizer  
 Fall 2023 - [Open Problems Single-cell perturbations Kaggle competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview) - member of judge panel  
