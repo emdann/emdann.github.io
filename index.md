@@ -48,7 +48,7 @@ I'm a computational biologists using single-cell genomics data to understand hum
 
 Previously, I obtained my PhD at the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) at the Wellcome Sanger Institute and [John Marioni](https://www.ebi.ac.uk/research/marioni) at the EMBL European Bioinformatics Institute. My PhD research focused on quantifying differences between biological conditions in single-cell genomics data, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on tissue immunology. 
 
-My work relies on open science, sharing of resources and know-how. I am part of the core team of the [scverse consortium](https://scverse.org/) of foundational tools for analysis of omics data in life sciences, where I am work on community outreach and events. 
+My work relies on open science, sharing of resources and know-how. I am part of the core team of the [scverse consortium](https://scverse.org/) of foundational tools for analysis of omics data in life sciences, where I work on community outreach and events. 
 
 <!-- I make [open source software](https://github.com/MarioniLab/miloR), [analysis workflows](https://github.com/MarioniLab/oor_benchmark) and [curate data resources](https://github.com/Teichlab/Pan_fetal_immune#mapping-the-developing-human-immune-system-across-organs.). -->
 <!-- I enjoy several activities and I excel at none: watching movies, reading fiction, board games, cooking, running, cycling, petting dogs. I grew up in Ferrara. -->
