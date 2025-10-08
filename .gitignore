@@ -4,3 +4,6 @@ node_modules
 .vscode
 .jekyll-metadata
 archives/
+
+_static/*.md
+_static/Dann-cv-academic.pdf
