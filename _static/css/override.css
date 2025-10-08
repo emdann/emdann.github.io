@@ -10,3 +10,53 @@ div.cell_output table {
 body:not([data-theme=light]) div.cell_output tbody tr:nth-child(odd) {
     background: rgba(255, 255, 255, .1);
 }
+
+.referees-container {
+    display: grid;
+    grid-template-columns: 40% 40%;  /* Reduced from 48% each */
+    grid-column-gap: 20%;  /* Increased gap */
+    margin-top: 0.5em;
+}
+  
+  .referees-container table {
+    border: none;
+    border-collapse: collapse;
+  }
+  
+  .referees-container thead {
+    display: none;
+  }
+  
+  .referees-container td {
+    vertical-align: top;
+    padding: 0.2em 0;
+    font-size: 0.9em;
+    line-height: 125%;
+  }
+
+  .date-right-section table {
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .date-right-section thead {
+    display: none;
+  }
+  
+  .date-right-section td:first-child {
+    width: 80%;
+    text-align: left;
+    vertical-align: top;
+    font-size: 10pt !important;
+    line-height: 125%;
+  }
+  
+  .date-right-section td:last-child {
+    width: 20%;
+    text-align: right;
+    vertical-align: top;
+    font-weight: normal;
+    font-size: 10pt !important;
+    line-height: 125%;
+  }

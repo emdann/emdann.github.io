@@ -205,3 +205,31 @@ strong {
 .pagedjs_margin.pagedjs_margin-bottom-right.hasContent {
   align-items: baseline;
 }
+
+/* Date-right section styling */
+.date-right-section table {
+  border: none;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.date-right-section thead {
+  display: none;
+}
+
+.date-right-section td:first-child {
+  width: 80%;
+  text-align: left;
+  vertical-align: top;
+  font-size: var(--root-font-size);
+  line-height: 125%;
+}
+
+.date-right-section td:last-child {
+  width: 20%;
+  text-align: right;
+  vertical-align: top;
+  font-weight: normal;
+  font-size: var(--root-font-size);
+  line-height: 125%;
+}
