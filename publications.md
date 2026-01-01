@@ -5,7 +5,10 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=J2NQ29wA
 
 <h3>Tissue and ex vivo cell atlases to dissect genetic drivers of human complex disease</h3>
 
-Ota M., Spence J.P., Zeng T., **Dann E.**, Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.01.22.634424v1)
+Zhu R.\*, __Dann E.__\*, Yan J., Retana J.R., Goto R., ... , Pritchard J.K., Marson A. (2025) Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2025.12.23.696273)
+<sup>\*Equal Contribution</sup> | [code](https://github.com/emdann/GWT_perturbseq_analysis_2025) | [data](https://virtualcellmodels.cziscience.com/dataset/genome-scale-tcell-perturb-seq)  
+
+Ota M., Spence J.P., Zeng T., **Dann E.**, Milind N., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _Nature_ | [Full text](https://www.nature.com/articles/s41586-025-09866-3)
 
 __Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savova V., Rinaldis E., Teichmann S.A. (2024) Estimating the impact of single-cell RNA sequencing of human tissues on drug target validation., _medRxiv_ | [Full text](https://www.medrxiv.org/content/10.1101/2024.04.04.24305313v2.full.pdf) | 
 [code](https://github.com/emdann/sc_target_evidence)  
@@ -39,6 +42,8 @@ Suo C.\*, __Dann E.__\*, ... , Haniffa M., Teichmann S.A. (2022) Mapping the dev
 [Full text](https://www.science.org/doi/10.1126/science.abo0510#con2) | [code](https://github.com/Teichlab/Pan_fetal_immune) | [data](https://developmental.cellatlas.io/fetal-immune)  
 <sup>\*Equal Contribution</sup>  
 
+Pett J.P., Prete M., Pham D., England N., ... , **Dann E.**, ... , Teichmann S.A., Meyer K. (2025) An atlas of TF driven gene programs across human cells. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.05.30.657075v1) 
+
 Yayon N., Kedlian V., Boehme L., ... , **Dann E**, ... , Uhlmann V., Notarangelo L.D., Germain R.N., Radtke A.J., Marioni J.C., Taghon T., Teichmann S.A. (2024) A spatial human thymus cell atlas mapped to a continuous tissue axis. _Nature_ | [Full text](https://www.nature.com/articles/s41586-024-07944-6)
 
 Oliver A.J., Ni H., ... , **Dann E.**, ..., Elmentaite R., Teichmann S.A. (2024) Single-cell integration reveals metaplasia in inflammatory gut diseases. _Nature_ | [Full text](https://www.nature.com/articles/s41586-024-07571-1)
@@ -62,6 +67,8 @@ Stephenson E., Reynolds G., Botting R.A., Calero-Nieto F.J., Morgan M.D., Tuong 
 
 
 <h3>Establishing best practices for single-cell analysis</h3>
+
+Deconinck L, Zappia L, Cannoodt R, Morgan M, **scverse core**, ... , Saeys Y. (2025) _anndataR_ improves interoperability between R and Python in single-cell transcriptomics. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2025.08.18.669052v1.full)
 
 Luecken M., Gigante S., Burkhardt D., Cannoodt R., ... , **Dann E.**, ... , Saeys Y., Theis F., Krishnaswamy S. (2024) Defining and benchmarking open problems in single-cell analysis. _Research Square_ | [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11030530/)
 
