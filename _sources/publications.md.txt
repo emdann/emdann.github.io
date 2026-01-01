@@ -5,8 +5,8 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=J2NQ29wA
 
 <h3>Tissue and ex vivo cell atlases to dissect genetic drivers of human complex disease</h3>
 
-Zhu R.\*, __Dann E.__\*, Yan J., Retana J.R., Goto R., ... , Pritchard J.K., Marson A. (2025) Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2025.12.23.696273)
-<sup>\*Equal Contribution</sup> | [code](https://github.com/emdann/GWT_perturbseq_analysis_2025) | [data](https://virtualcellmodels.cziscience.com/dataset/genome-scale-tcell-perturb-seq)  
+Zhu R.\*, __Dann E.__\*, Yan J., Retana J.R., Goto R., ... , Pritchard J.K., Marson A. (2025) Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2025.12.23.696273) | [code](https://github.com/emdann/GWT_perturbseq_analysis_2025) | [data](https://virtualcellmodels.cziscience.com/dataset/genome-scale-tcell-perturb-seq)  
+<sup>\*Equal Contribution</sup>   
 
 Ota M., Spence J.P., Zeng T., **Dann E.**, Milind N., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _Nature_ | [Full text](https://www.nature.com/articles/s41586-025-09866-3)
 
