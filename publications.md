@@ -26,7 +26,7 @@ __Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savov
 [R package](https://github.com/MarioniLab/miloR) | 
 [python package](https://github.com/emdann/milopy)
 
-Heumos L., Ji Y., ... , Dann E., ... , Theis F.J. (2024) Pertpy: an end-to-end framework for perturbation analysis. _biorXiv_ | [Full text](https://www.biorxiv.org/content/10.1101/2024.08.04.606516v1.full) | [python package](https://github.com/scverse/pertpy)
+Heumos L., Ji Y., ... , **Dann E.**, ... , Theis F.J. (2025) Pertpy: an end-to-end framework for perturbation analysis. _Nature Methods_ | [Full text](https://www.nature.com/articles/s41592-025-02909-7) | [python package](https://github.com/scverse/pertpy)
 
 Missarova A., **Dann E.**, ... , J.C. Marioni (2024) Leveraging neighborhood representations of single-cell data to achieve sensitive DE testing with miloDE. _Genome Biology_ | [Full text](https://link.springer.com/article/10.1186/s13059-024-03334-3) | [R package](https://github.com/MarioniLab/miloDE)
 
