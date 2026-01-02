@@ -28,7 +28,7 @@ __Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savov
 
 Heumos L., Ji Y., ... , **Dann E.**, ... , Theis F.J. (2025) Pertpy: an end-to-end framework for perturbation analysis. _Nature Methods_ | [Full text](https://www.nature.com/articles/s41592-025-02909-7) | [python package](https://github.com/scverse/pertpy)
 
-Missarova A., **Dann E.**, ... , J.C. Marioni (2024) Leveraging neighborhood representations of single-cell data to achieve sensitive DE testing with miloDE. _Genome Biology_ | [Full text](https://link.springer.com/article/10.1186/s13059-024-03334-3) | [R package](https://github.com/MarioniLab/miloDE)
+Missarova A., **Dann E.**, ... , Marioni J.C. (2023) Leveraging neighborhood representations of single-cell data to achieve sensitive DE testing with miloDE. _Genome Biology_ | [Full text](https://link.springer.com/article/10.1186/s13059-024-03334-3) | [R package](https://github.com/MarioniLab/miloDE)
 
 Sumanaweera D., Suo C., Muraro D., **Dann E.**, ... , Teichmann S.A. (2023) Gene-level alignment of single cell trajectories. _Nature Methods_ | [Full text](https://www.nature.com/articles/s41592-024-02378-4) | [python package](https://github.com/Teichlab/Genes2Genes)
 
