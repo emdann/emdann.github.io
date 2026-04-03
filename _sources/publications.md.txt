@@ -2,20 +2,20 @@
 
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=J2NQ29wAAAAJ&view_op=list_works) or [CV](https://emdann.github.io/_static/Dann-cv.pdf) for a complete chronological list of publications.
 
-
-<h3>Tissue and ex vivo cell atlases to dissect genetic drivers of human complex disease</h3>
+<h3>Perturb-seq to decode natural genetic and cellular variation</h3>
 
 Zhu R.\*, __Dann E.__\*, Yan J., Retana J.R., Goto R., ... , Pritchard J.K., Marson A. (2025) Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2025.12.23.696273) | [code](https://github.com/emdann/GWT_perturbseq_analysis_2025) | [data](https://virtualcellmodels.cziscience.com/dataset/genome-scale-tcell-perturb-seq)  
 <sup>\*Equal Contribution</sup>   
 
+Hartman A, Blair J., ... , **Dann E.**, ... , Satpathy A., Roth T. (2026) Systematic identification of seed-driven off-target effects in Perturb-seq experiments. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2026.03.27.714658v2)
+
 Ota M., Spence J.P., Zeng T., **Dann E.**, Milind N., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _Nature_ | [Full text](https://www.nature.com/articles/s41586-025-09866-3)
+
+<h3>Comparative methods and design of multi-condition single-cell genomics studies</h3>
 
 __Dann E.__\*, Teeple E.\*, Elmentaite R., Meyer K., Gaglia G., Nestle F., Savova V., Rinaldis E., Teichmann S.A. (2024) Estimating the impact of single-cell RNA sequencing of human tissues on drug target validation., _medRxiv_ | [Full text](https://www.medrxiv.org/content/10.1101/2024.04.04.24305313v2.full.pdf) | 
 [code](https://github.com/emdann/sc_target_evidence)  
 <sup>\*Equal Contribution</sup>
-
-
-<h3>Comparative methods and design of multi-condition single-cell genomics studies</h3>
 
 **Dann E.**, Cujba A.M., Oliver A.J., Meyer K., Teichmann S.A., Marioni J.C. (2023) Precise identification of cell states altered in disease with healthy single-cell references, _Nature Genetics_ | [Full text](https://www.nature.com/articles/s41588-023-01523-7) | 
 [code](https://github.com/MarioniLab/oor_design_reproducibility) | 
