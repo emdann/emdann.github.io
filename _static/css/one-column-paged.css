@@ -189,6 +189,12 @@ strong {
   color: #333333
 }
 
+/* Underline author names of trainees I have mentored */
+.trainee {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 
 /****** Page numbers ******/
 @page {
