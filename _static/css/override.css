@@ -1,3 +1,9 @@
+/* Underline author names of trainees I have mentored (see legend in publications.md) */
+.trainee {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
 div.cell_output table {
     border: none;
     border-collapse: collapse;
