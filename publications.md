@@ -4,16 +4,18 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=J2NQ29wA
 
 <h3>Perturb-seq to decode natural genetic and cellular variation</h3>
 
-Zhu R.\*, __Dann E.__\*, Yan J., Retana J.R., Goto R., ... , Pritchard J.K., Marson A. (2025) Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2025.12.23.696273) | [code](https://github.com/emdann/GWT_perturbseq_analysis_2025) | [data](https://virtualcellmodels.cziscience.com/dataset/genome-scale-tcell-perturb-seq)  
+Zhu R.\*, __Dann E.__\*, Yan J., Retana J.R., Goto R., ... , Pritchard J.K., Marson A. (2026) Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits. _Cell_ | [Full text](https://www.cell.com/cell/fulltext/S0092-8674(26)00929-3) | [code](https://github.com/emdann/GWT_perturbseq_analysis_2025) | [data](https://virtualcellmodels.cziscience.com/dataset/genome-scale-tcell-perturb-seq)  
 <sup>\*Equal Contribution</sup>   
 
+Ota M., Spence J.P., Zeng T., **Dann E.**, Milind N., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _Nature_ | [Full text](https://www.nature.com/articles/s41586-025-09866-3)
+
 Liu Q., Chen P.A., Urs E., ... , **Dann E.**, ... , Marson A., Carnevale J. (2026) _In vivo_ genome-wide CRISPR screens in human T cells to enhance T cell therapy for solid tumors. _Nature_ | [Full text](https://www.nature.com/articles/s41586-026-10906-9)
+
+Jung H., Devant P., Ching C., Ota M., **Dann E.**, Zhu R., ... , Marson A., Carnevale J. (2026) Virus-like particles enable targeted gene engineering and pooled CRISPR screening in primary human myeloid cells. _Nature Biotechnology_ | [Full text](https://www.nature.com/articles/s41587-026-03258-2)
 
 Rathore U., Dugan E., Thornton H., ... , **Dann E.**, ... , Marson A. (2026) Systematic discovery of pro- and anti-HIV host factors in primary human CD4+ T cells. _Cell_ | [Full text](https://www.cell.com/cell/fulltext/S0092-8674(26)00382-X)
 
 Hartman A, Blair J., ... , **Dann E.**, ... , Satpathy A., Roth T. (2026) Systematic identification of seed-driven off-target effects in Perturb-seq experiments. _bioRxiv_ | [Full text](https://www.biorxiv.org/content/10.64898/2026.03.27.714658v2)
-
-Ota M., Spence J.P., Zeng T., **Dann E.**, Milind N., Marson A., Pritchard J.K. (2025) Causal modeling of gene effects from regulators to programs to traits: integration of genetic associations and Perturb-seq. _Nature_ | [Full text](https://www.nature.com/articles/s41586-025-09866-3)
 
 <h3>Comparative methods and design of multi-condition single-cell genomics studies</h3>
 
