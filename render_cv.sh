@@ -13,14 +13,20 @@ cd "$(dirname "$0")"
 SRC=_static/Dann-cv.md
 FILTER=_static/cv-version.lua
 CSS_MAIN=_static/css/one-column-paged.css
+CSS_LETTER=_static/css/us-letter.css
 CSS_FA=https://use.fontawesome.com/releases/v5.7.2/css/all.css
 
 render() {
   local version=$1 out=$2
+  local extra_css=()
+  # The academic version prints on US Letter to match the cover letter and
+  # research statement; the website version stays A4.
+  [[ $version == academic ]] && extra_css=(--css="$CSS_LETTER")
   pandoc "$SRC" \
     --lua-filter="$FILTER" \
     -M version="$version" \
     --css="$CSS_MAIN" \
+    ${extra_css[@]+"${extra_css[@]}"} \
     --css="$CSS_FA" \
     -t html5 \
     --pdf-engine=weasyprint \
