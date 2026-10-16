@@ -44,9 +44,9 @@ emmadann [at] stanford [dot] edu
 
 <h2>About</h2>
 
-I'm a computational biologists interested in understanding how genetic and cellular variation shape human complex traits and disease. I am an EMBO and Helen Hay Whitney post-doctoral fellow in the [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford University and a visiting fellow in the [Marson Lab](https://www.marsonlab.org/) at the Gladstone Institutes. 
+I'm a computational biologist interested in understanding how genetic and cellular variation shape human complex traits and disease. I am an EMBO and Helen Hay Whitney post-doctoral fellow in the [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html) at Stanford University and a visiting fellow in the [Marson Lab](https://www.marsonlab.org/) at the Gladstone Institutes. 
 
-Previously, I obtained my PhD at the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) at the Wellcome Sanger Institute and [John Marioni](https://www.ebi.ac.uk/research/marioni) at the EMBL European Bioinformatics Institute. My PhD research focused on quantifying differences between biological conditions in single-cell genomics data, optimizing the use of cell atlases, and characterizing disease-related cell states, with a focus on tissue immunology. 
+Previously, I did my PhD at the University of Cambridge, working between the groups of [Sarah Teichmann](http://www.teichlab.org/) at the Wellcome Sanger Institute and [John Marioni](https://www.ebi.ac.uk/research/marioni) at the EMBL European Bioinformatics Institute. My PhD research focused on developing methods for detection of disease-associated cells in scRNA-seq data, and applying them to understand immune cell variation in health and disease.
 
 My work relies on open science, sharing of resources and know-how. I am part of the core team of the [scverse consortium](https://scverse.org/) of foundational tools for analysis of omics data in life sciences, where I work on community outreach and events. 
 

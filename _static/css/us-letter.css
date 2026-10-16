@@ -1,0 +1,5 @@
+/* Academic CV only: US Letter page size, to match the cover letter and
+   research statement. Layered on top of one-column-paged.css (A4). */
+@page {
+  size: 8.5in 11in;
+}
